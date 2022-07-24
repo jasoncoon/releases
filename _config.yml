@@ -1,8 +1,8 @@
 title: Marvel Studios Releases
 description: >- # this means to ignore newlines until "baseurl:"
   Marvel Studios upcoming releases.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jasoncoon.github.io/marvel" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/marvel" # the subpath of your site, e.g. /blog
+url: "https://jasoncoon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
