@@ -7,7 +7,7 @@ title: DC Series
 
 {% assign items = site.data.releases | where_exp: "item", "item.platform != 'Theaters' and item.studio == 'DC'" %}
 
-| Title | Date | Notes |
-| ----- | ---- | ----- |
-{% for release in items %}| {% if release.link %} [{{ release.title }}]({{ release.link }}) {% else %} {{ release.title }} {% endif %} | {{ release.date }} | {{ release.notes }} |
+| Title | Date | Platform | Notes |
+| ----- | ---- | -------- | ----- |
+{% for release in items %}| {% if release.link %} [{{ release.title }}]({{ release.link }}) {% else %} {{ release.title }} {% endif %} | {{ release.date }} | {{ release.platform }} | {{ release.notes }} |
 {% endfor %}

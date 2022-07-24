@@ -3,7 +3,7 @@ layout: home
 title: DC Movies
 ---
 
-[All]({{ "/dc" | relative_url }}) \| [Movies]({{ "/dc/movies" | relative_url }}) \| [Series]({{ "/dc/series" | relative_url }}) 
+[All]({{ "/dc" | relative_url }}) \| [Movies]({{ "/dc/movies" | relative_url }}) \| [Series]({{ "/dc/series" | relative_url }})
 
 {% assign items = site.data.releases | where_exp: "item", "item.platform == 'Theaters' and item.studio == 'DC'" %}
 

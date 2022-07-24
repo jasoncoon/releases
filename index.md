@@ -3,7 +3,7 @@ layout: home
 title: All Releases
 ---
 
-[All]({{ "/" | relative_url }}) \| [Movies]({{ "/movies" | relative_url }}) \| [Series]({{ "/series" | relative_url }}) 
+[All]({{ "/" | relative_url }}) \| [Movies]({{ "/movies" | relative_url }}) \| [Series]({{ "/series" | relative_url }})
 
 | Title | Date | Platform | Studio | Notes |
 | ----- | ---- | -------- | ------ | ----- |

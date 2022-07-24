@@ -3,7 +3,7 @@ layout: home
 title: Marvel Movies
 ---
 
-[All]({{ "/marvel" | relative_url }}) \| [Movies]({{ "/marvel/movies" | relative_url }}) \| [Series]({{ "/marvel/series" | relative_url }}) 
+[All]({{ "/marvel" | relative_url }}) \| [Movies]({{ "/marvel/movies" | relative_url }}) \| [Series]({{ "/marvel/series" | relative_url }})
 
 {% assign items = site.data.releases | where_exp: "item", "item.platform == 'Theaters' and item.studio == 'Marvel'" %}
 
