@@ -1,1 +1,1 @@
-# Marvel Studios Upcoming Releases
+# Upcoming Releases
