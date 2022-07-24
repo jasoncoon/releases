@@ -5,7 +5,8 @@ title: Lucasfilm Series
 
 [All]({{ "/lucasfilm" | relative_url }}) \| [Movies]({{ "/lucasfilm/movies" | relative_url }}) \| [Series]({{ "/lucasfilm/series" | relative_url }}) 
 
-{% assign items = site.data.releases | where_exp: "item", "item.platform != 'Theaters' and item.studio == 'Lucasfilm'" %}
+{% assign items = site.data.releases | where_exp: "item", "item.platform != 'Theaters'" %}
+{% assign items = items | where_exp: "item", "item.studio == 'Lucasfilm'" %}
 
 | Title | Date | Platform | Notes |
 | ----- | ---- | -------- | ----- |
