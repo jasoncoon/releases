@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Lucasfilm Movies
 ---
 
 [All]({{ "/lucasfilm" | relative_url }}) \| [Movies]({{ "/lucasfilm/movies" | relative_url }}) \| [Series]({{ "/lucasfilm/series" | relative_url }}) 
