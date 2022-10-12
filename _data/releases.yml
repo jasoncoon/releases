@@ -20,11 +20,18 @@
   link: https://www.imdb.com/title/tt10857160
 
 - title: Andor
-  date: Spetember 21 2022
+  date: September 21 2022
   studio: Lucasfilm
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt9253284
+
+- title: Werewolf by Night
+  date: October 7 2022
+  studio: Marvel
+  platform: Disney+
+  notes:
+  link: https://www.imdb.com/title/tt15318872
 
 - title: Black Adam
   date: October 21 2022
@@ -138,13 +145,6 @@
   notes:
   link: https://www.imdb.com/title/tt10168312
 
-- title: Blade
-  date: November 3 2023
-  studio: Marvel
-  platform: Theaters
-  notes: Phase Five
-  link: https://www.imdb.com/title/tt10671440
-
 - title: "Dune: Part Two"
   date: November 17 2023
   studio: Legendary
@@ -166,19 +166,12 @@
   notes:
   link: https://www.imdb.com/title/tt10300394
 
-- title: "Spider-Man: Freshman Year"
-  date: 2024
-  studio: Marvel
-  platform: Disney+
-  notes: Animated Series
-  link: https://www.imdb.com/title/tt16027074
-
-- title: Armor Wars
-  date:
+- title: "Daredevil: Born Again"
+  date: Spring 2024
   studio: Marvel
   platform: Disney+
   notes:
-  link: https://www.imdb.com/title/tt13623128
+  link: https://www.imdb.com/title/tt20411934
 
 - title: "Captain America: New World Order"
   date: May 3 2024
@@ -194,20 +187,6 @@
   notes: Animated Series
   link: https://www.imdb.com/title/tt16027014
 
-- title: Fantastic Four
-  date: November 8 2024
-  studio: Marvel
-  platform: Theaters
-  notes: Phase Six
-  link: https://www.imdb.com/title/tt10676052
-
-- title: Deadpool 3
-  date:
-  studio: Marvel
-  platform: Theaters
-  notes:
-  link: https://www.imdb.com/title/tt6263850
-
 - title: Thunderbolts
   date: July 26 2024
   studio: Marvel
@@ -215,12 +194,19 @@
   notes: Phase Five
   link: https://www.imdb.com/title/tt20969586
 
-- title: "Daredevil: Born Again"
-  date: Spring 2024
+- title: Blade
+  date: September 6 2024
   studio: Marvel
-  platform: Disney+
+  platform: Theaters
+  notes: Phase Five
+  link: https://www.imdb.com/title/tt10671440
+
+- title: Deadpool 3
+  date: November 8 2024
+  studio: Marvel
+  platform: Theaters
   notes:
-  link: https://www.imdb.com/title/tt20411934
+  link: https://www.imdb.com/title/tt6263850
 
 - title: "Avatar 3"
   date: December 20, 2024
@@ -228,6 +214,20 @@
   platform: Theaters
   notes: James Cameron
   link: https://www.imdb.com/title/tt1757678
+
+- title: "Spider-Man: Freshman Year"
+  date: 2024
+  studio: Marvel
+  platform: Disney+
+  notes: Animated Series
+  link: https://www.imdb.com/title/tt16027074
+
+- title: Fantastic Four
+  date: February 14, 2025
+  studio: Marvel
+  platform: Theaters
+  notes: Phase Six
+  link: https://www.imdb.com/title/tt10676052
 
 - title: "Avengers: The Kang Dynasty"
   date: May 2 2025
@@ -237,8 +237,15 @@
   link:
 
 - title: "Avengers: Secret Wars"
-  date: November 7 2025
+  date: May 1 2026
   studio: Marvel
   platform: Theaters
   notes: Phase Six
   link:
+
+- title: Armor Wars
+  date:
+  studio: Marvel
+  platform: Disney+
+  notes:
+  link: https://www.imdb.com/title/tt13623128
