@@ -1,0 +1,1 @@
+<small>Updated: {{ site.time | date_to_rfc822 }}</small>

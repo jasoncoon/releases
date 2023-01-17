@@ -1,243 +1,374 @@
 - title: The Sandman
-  date: August 5 2022
+  release: "Aug 5 2022"
+  date: 2022-08-05 00:00:00 -0000
   studio: DC
   platform: Netflix
   notes: Neil Gaiman
   link: https://www.imdb.com/title/tt1751634
 
 - title: I Am Groot
-  date: August 10 2022
+  release: "Aug 10 2022"
+  date: 2022-08-10 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes: Animated Shorts
   link: https://www.imdb.com/title/tt13623148
 
 - title: She-Hulk
-  date: August 17 2022
+  release: "Aug 17 2022"
+  date: 2022-08-17 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt10857160
 
 - title: Andor
-  date: August 31 2022
+  release: "Aug 31 2022"
+  date: 2022-08-31 00:00:00 -0000
   studio: Lucasfilm
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt9253284
 
 - title: Black Adam
-  date: October 21 2022
+  release: "Oct 21 2022"
+  date: 2022-10-21 00:00:00 -0000
   studio: DC
   platform: Theaters
   notes:
   link: https://www.imdb.com/title/tt10300394
 
 - title: "Black Panther: Wakanda Forever"
-  date: November 11 2022
+  release: "Nov 11 2022"
+  date: 2022-11-11 00:00:00 -0000
   studio: Marvel
   platform: Theaters
   notes: Phase Four
   link: https://www.imdb.com/title/tt9114286
 
+- title: Guardians of the Galaxy Holiday Special
+  release: "Nov 25 2022"
+  date: 2022-11-25 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes:
+  link: https://www.imdb.com/title/tt13623136
+
+- title: Willow Season 1
+  release: "Nov 30 2022"
+  date: 2022-11-30 00:00:00 -0000
+  studio: Lucasfilm
+  platform: Disney+
+  notes: 
+  link: https://www.imdb.com/title/tt10278918
+
 - title: "Avatar: The Way of Water"
-  date: December 16 2022
+  release: "Dec 16 2022"
+  date: 2022-12-16 00:00:00 -0000
   studio: 20th Century
   platform: Theaters
   notes: James Cameron
   link: https://www.imdb.com/title/tt9114286
 
-- title: Guardians of the Galaxy Holiday Special
-  date: Late 2022
-  studio: Marvel
+- title: "Star Wars: The Bad Batch Season 2"
+  release: "Jan 4 2023"
+  date: 2023-01-04 00:00:00 -0000
+  studio: Lucasfilm
   platform: Disney+
   notes:
-  link: https://www.imdb.com/title/tt2015381
+  link: https://www.imdb.com/title/tt12708542/
+
+- title: The Last of Us
+  release: "Jan 15 2023"
+  date: 2023-01-15 00:00:00 -0000
+  studio: HBO
+  platform: HBO Max
+  notes: 
+  link: https://www.imdb.com/title/tt3581920
 
 - title: What If…?
-  date: Early 2023
+  release: "Early 2023"
+  date: 2023-02-01 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes: Animated Series
   link: https://www.imdb.com/title/tt10168312
 
 - title: "Ant-Man and the Wasp: Quantumania"
-  date: February 17 2023
+  release: "Feb 17 2023"
+  date: 2023-02-17 00:00:00 -0000
   studio: Marvel
   platform: Theaters
   notes: Phase Five
   link: https://www.imdb.com/title/tt10954600
 
 - title: The Mandalorian Season 3
-  date: February 2023
+  release: "Mar 1 2023"
+  date: 2023-03-01 00:00:00 -0000
   studio: Lucasfilm
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt8111088
 
+- title: 65
+  release: "Mar 10 2023"
+  date: 2023-03-10 00:00:00 -0000
+  studio: Columbia Pictures
+  platform: Theaters
+  notes: Adam Driver, writers of A Quiet Place
+  link: https://www.imdb.com/title/tt12261776
+
+- title: Shazam! Fury of the Gods
+  release: "Mar 17 2023"
+  date: 2023-03-17 00:00:00 -0000
+  studio: DC
+  platform: Theaters
+  notes:
+  link: https://www.imdb.com/title/tt10151854
+
 - title: Secret Invasion
-  date: Spring 2023
+  release: "Spring 2023"
+  date: 2023-03-20 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt13157618
 
+- title: "John Wick: Chapter 4"
+  release: "Mar 24 2023"
+  date: 2023-03-24 00:00:00 -0000
+  studio: Lionsgate
+  platform: Theaters
+  notes:
+  link: https://www.imdb.com/title/tt10366206
+
+- title: "Dungeons & Dragons: Honor Among Thieves"
+  release: "Mar 24 2023"
+  date: 2023-03-24 00:00:00 -0000
+  studio: Paramount
+  platform: Theaters
+  notes: Chris Pine
+  link: https://www.imdb.com/title/tt2906216
+
+- title: The Super Mario Bros. Movie
+  release: "Apr 7 2023"
+  date: 2023-04-07 00:00:00 -0000
+  studio: Nintendo
+  platform: Theaters
+  notes: Illumination
+  link: https://www.imdb.com/title/tt6718170
+
 - title: Guardians of the Galaxy Vol. 3
-  date: May 5 2023
+  release: "May 5 2023"
+  date: 2023-05-05 00:00:00 -0000
   studio: Marvel
   platform: Theaters
   notes: Phase Five
   link: https://www.imdb.com/title/tt6791350
 
 - title: Ahsoka
-  date: May 12 2023
+  release: "May 12 2023"
+  date: 2023-05-12 00:00:00 -0000
   studio: Lucasfilm
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt13622776
 
-- title: Oppenheimer
-  date: July 21 2023
-  studio: Syncopy
-  platform: Theaters
-  notes: Christopher Nolan
-  link: https://www.imdb.com/title/tt15398776
-
-- title: The Marvels
-  date: July 28 2023
+- title: "Spider-Man: Across the Spider-Verse"
+  release: "Jun 2 2023"
+  date: 2023-06-02 00:00:00 -0000
   studio: Marvel
   platform: Theaters
-  notes: Phase Five
-  link: https://www.imdb.com/title/tt10676048
+  notes: Sony Pictures Animation
+  link: https://www.imdb.com/title/tt936272022
+
+- title: The Flash
+  release: "Jun 16 2023"
+  date: 2023-06-16 00:00:00 -0000
+  studio: DC
+  platform: Theaters
+  notes: 
+  link: https://www.imdb.com/title/tt0439572
 
 - title: Echo
-  date: Summer 2023
+  release: "Summer 2023"
+  date: 2023-06-21 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt13966962
 
 - title: Loki Season 2
-  date: Summer 2023
+  release: "Summer 2023"
+  date: 2023-06-21 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt9140554
 
+- title: Indiana Jones and the Dial of Destiny
+  release: "Jun 30 2023"
+  date: 2023-06-30 00:00:00 -0000
+  studio: Lucasfilm
+  platform: Theaters
+  notes: James Mangold
+  link: https://www.imdb.com/title/tt1462764
+
+- title: "Mission: Impossible - Dead Reckoning, Part One"
+  release: "Jul 14 2023"
+  date: 2023-07-14 00:00:00 -0000
+  studio: Paramount
+  platform: Theaters
+  notes: Christopher McQuarrie
+  link: https://www.imdb.com/title/tt9603212
+
+- title: Oppenheimer
+  release: "Jul 21 2023"
+  date: 2023-07-21 00:00:00 -0000
+  studio: Syncopy
+  platform: Theaters
+  notes: Christopher Nolan
+  link: https://www.imdb.com/title/tt15398776
+
+- title: The Marvels
+  release: "Jul 28 2023"
+  date: 2023-07-28 00:00:00 -0000
+  studio: Marvel
+  platform: Theaters
+  notes: Phase Five
+  link: https://www.imdb.com/title/tt10676048
+
 - title: X-Men '97
-  date: Fall 2023
+  release: "Fall 2023"
+  date: 2023-09-23 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes: Animated Series
   link: https://www.imdb.com/title/tt16026746
 
 - title: Ironheart
-  date: Fall 2023
+  release: "Fall 2023"
+  date: 2023-09-23 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt10168312
 
 - title: Blade
-  date: November 3 2023
+  release: "Nov 3 2023"
+  date: 2023-11-03 00:00:00 -0000
   studio: Marvel
   platform: Theaters
   notes: Phase Five
   link: https://www.imdb.com/title/tt10671440
 
 - title: "Dune: Part Two"
-  date: November 17 2023
+  release: "Nov 3 2023"
+  date: 2023-11-03 00:00:00 -0000
   studio: Legendary
   platform: Theaters
   notes: Denis Villeneuve
-  link: https://www.imdb.com/title/tt10671440
+  link: https://www.imdb.com/title/tt15239678
 
 - title: "Agatha: House of Harkness"
-  date: Winter 2023
+  release: "Winter 2023"
+  date: 2023-12-22 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt15571732
 
 - title: "Star Wars: Rogue Squadron"
-  date: 2023
+  release: "2023"
+  date: 2023-12-31 00:00:00 -0000
   studio: Lucasfilm
   platform: Theaters
   notes:
   link: https://www.imdb.com/title/tt10300394
 
 - title: "Spider-Man: Freshman Year"
-  date: 2024
+  release: "2024"
+  date: 2024-01-01 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes: Animated Series
   link: https://www.imdb.com/title/tt16027074
 
 - title: Armor Wars
-  date:
+  release: "2024"
+  date: 2024-01-01 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt13623128
 
+- title: "Daredevil: Born Again"
+  release: "Spring 2024"
+  date: 2024-03-19 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes:
+  link: https://www.imdb.com/title/tt20411934
+
 - title: "Captain America: New World Order"
-  date: May 3 2024
+  release: "May 3 2024"
+  date: 2024-05-03 00:00:00 -0000
   studio: Marvel
   platform: Theaters
   notes: Phase Five
   link: https://www.imdb.com/title/tt14513804
 
 - title: Marvel Zombies
-  date: June 21 2024
+  release: "Jun 21 2024"
+  date: 2024-06-21 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes: Animated Series
   link: https://www.imdb.com/title/tt16027014
 
-- title: Fantastic Four
-  date: November 8 2024
-  studio: Marvel
-  platform: Theaters
-  notes: Phase Six
-  link: https://www.imdb.com/title/tt10676052
-
 - title: Deadpool 3
-  date:
+  release: "Nov 8 2024"
+  date: 2024-11-08 00:00:00 -0000
   studio: Marvel
   platform: Theaters
   notes:
   link: https://www.imdb.com/title/tt6263850
 
 - title: Thunderbolts
-  date: July 26 2024
+  release: "Jul 26 2024"
+  date: 2025-07-26 00:00:00 -0000
   studio: Marvel
   platform: Theaters
   notes: Phase Five
   link: https://www.imdb.com/title/tt20969586
 
-- title: "Daredevil: Born Again"
-  date: Spring 2024
-  studio: Marvel
-  platform: Disney+
-  notes:
-  link: https://www.imdb.com/title/tt20411934
-
 - title: "Avatar 3"
-  date: December 20, 2024
+  release: "Dec 20 2024"
+  date: 2024-12-20 00:00:00 -0000
   studio: 20th Century
   platform: Theaters
   notes: James Cameron
   link: https://www.imdb.com/title/tt1757678
 
+- title: Fantastic Four
+  release: "Feb 14 2025"
+  date: 2025-02-14 00:00:00 -0000
+  studio: Marvel
+  platform: Theaters
+  notes: Phase Six
+  link: https://www.imdb.com/title/tt10676052
+
 - title: "Avengers: The Kang Dynasty"
-  date: May 2 2025
+  release: "May 2 2025"
+  date: 2025-05-02 00:00:00 -0000
   studio: Marvel
   platform: Theaters
   notes: Phase Six
   link:
 
 - title: "Avengers: Secret Wars"
-  date: November 7 2025
+  release: "May 5 2026"
+  date: 2026-05-05 00:00:00 -0000
   studio: Marvel
   platform: Theaters
   notes: Phase Six
