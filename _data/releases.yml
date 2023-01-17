@@ -30,13 +30,20 @@
   notes:
   link: https://www.imdb.com/title/tt9253284
 
+- title: Werewolf by Night
+  date: October 7 2022
+  studio: Marvel
+  platform: Disney+
+  notes:
+  link: https://www.imdb.com/title/tt15318872
+
 - title: Black Adam
   release: "Oct 21 2022"
   date: 2022-10-21 00:00:00 -0000
   studio: DC
   platform: Theaters
   notes:
-  link: https://www.imdb.com/title/tt10300394
+  link: https://www.imdb.com/title/tt6443346
 
 - title: "Black Panther: Wakanda Forever"
   release: "Nov 11 2022"
@@ -68,7 +75,7 @@
   studio: 20th Century
   platform: Theaters
   notes: James Cameron
-  link: https://www.imdb.com/title/tt9114286
+  link: https://www.imdb.com/title/tt1630029
 
 - title: "Star Wars: The Bad Batch Season 2"
   release: "Jan 4 2023"
@@ -300,7 +307,7 @@
   studio: Marvel
   platform: Disney+
   notes:
-  link: https://www.imdb.com/title/tt13623128
+  link: https://www.imdb.com/title/tt20411934
 
 - title: "Daredevil: Born Again"
   release: "Spring 2024"
@@ -364,7 +371,7 @@
   studio: Marvel
   platform: Theaters
   notes: Phase Six
-  link:
+  link: https://www.imdb.com/title/tt21357150
 
 - title: "Avengers: Secret Wars"
   release: "May 5 2026"
@@ -372,4 +379,11 @@
   studio: Marvel
   platform: Theaters
   notes: Phase Six
-  link:
+  link: https://www.imdb.com/title/tt21361444
+
+- title: Armor Wars
+  date:
+  studio: Marvel
+  platform: Disney+
+  notes:
+  link: https://www.imdb.com/title/tt13623128
