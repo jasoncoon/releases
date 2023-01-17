@@ -31,7 +31,8 @@
   link: https://www.imdb.com/title/tt9253284
 
 - title: Werewolf by Night
-  date: October 7 2022
+  release: Oct 7 2022
+  date: 2022-10-07 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes:
@@ -382,7 +383,8 @@
   link: https://www.imdb.com/title/tt21361444
 
 - title: Armor Wars
-  date:
+  release: "2024"
+  date: 2024-01-01 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes:
