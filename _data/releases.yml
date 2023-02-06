@@ -67,7 +67,7 @@
   date: 2022-11-30 00:00:00 -0000
   studio: Lucasfilm
   platform: Disney+
-  notes: 
+  notes:
   link: https://www.imdb.com/title/tt10278918
 
 - title: "Avatar: The Way of Water"
@@ -91,7 +91,7 @@
   date: 2023-01-15 00:00:00 -0000
   studio: HBO
   platform: HBO Max
-  notes: 
+  notes:
   link: https://www.imdb.com/title/tt3581920
 
 - title: What If…?
@@ -190,13 +190,29 @@
   notes: Sony Pictures Animation
   link: https://www.imdb.com/title/tt936272022
 
+- title: Elemental
+  release: "Jun 16 2023"
+  date: 2023-06-16 00:00:00 -0000
+  studio: Disney
+  platform: Theaters
+  notes:
+  link: https://www.imdb.com/title/tt15789038
+
 - title: The Flash
   release: "Jun 16 2023"
   date: 2023-06-16 00:00:00 -0000
   studio: DC
   platform: Theaters
-  notes: 
+  notes:
   link: https://www.imdb.com/title/tt0439572
+
+- title: Indiana Jones and the Dial Of Destiny
+  release: "Jun 30 2023"
+  date: 2023-06-30 00:00:00 -0000
+  studio: Lucasfilm
+  platform: Theaters
+  notes:
+  link: https://www.imdb.com/title/tt1462764
 
 - title: Echo
   release: "Summer 2023"
@@ -262,14 +278,6 @@
   notes:
   link: https://www.imdb.com/title/tt10168312
 
-- title: Blade
-  release: "Nov 3 2023"
-  date: 2023-11-03 00:00:00 -0000
-  studio: Marvel
-  platform: Theaters
-  notes: Phase Five
-  link: https://www.imdb.com/title/tt10671440
-
 - title: "Dune: Part Two"
   release: "Nov 3 2023"
   date: 2023-11-03 00:00:00 -0000
@@ -326,6 +334,14 @@
   notes: Phase Five
   link: https://www.imdb.com/title/tt14513804
 
+- title: "Kingdom of the Planet of the Apes"
+  release: "May 24 2024"
+  date: 2024-05-24 00:00:00 -0000
+  studio: 20th Century Fox
+  platform: Theaters
+  notes:
+  link: https://www.imdb.com/title/tt11389872/
+
 - title: Marvel Zombies
   release: "Jun 21 2024"
   date: 2024-06-21 00:00:00 -0000
@@ -333,6 +349,22 @@
   platform: Disney+
   notes: Animated Series
   link: https://www.imdb.com/title/tt16027014
+
+- title: Thunderbolts
+  release: "Jun 26 2024"
+  date: 2024-06-26 00:00:00 -0000
+  studio: Marvel
+  platform: Theaters
+  notes:
+  link: https://www.imdb.com/title/tt20969586
+
+- title: Blade
+  release: "Sept 6 2024"
+  date: 2024-09-06 00:00:00 -0000
+  studio: Marvel
+  platform: Theaters
+  notes:
+  link: https://www.imdb.com/title/tt10671440
 
 - title: Deadpool 3
   release: "Nov 8 2024"
@@ -389,3 +421,11 @@
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt13623128
+
+- title: "Avatar 3"
+  release: "Dec 18 2026"
+  date: 2026-12-18 00:00:00 -0000
+  studio: 20th Century
+  platform: Theaters
+  notes: James Cameron
+  link: https://www.imdb.com/title/tt3095356
