@@ -134,14 +134,6 @@
   notes:
   link: https://www.imdb.com/title/tt10151854
 
-- title: Secret Invasion
-  release: "Spring 2023"
-  date: 2023-03-20 00:00:00 -0000
-  studio: Marvel
-  platform: Disney+
-  notes:
-  link: https://www.imdb.com/title/tt13157618
-
 - title: "John Wick: Chapter 4"
   release: "Mar 24 2023"
   date: 2023-03-24 00:00:00 -0000
@@ -205,6 +197,14 @@
   platform: Theaters
   notes:
   link: https://www.imdb.com/title/tt0439572
+
+- title: Secret Invasion
+  release: "Jun 21 2023"
+  date: 2023-06-21 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes:
+  link: https://www.imdb.com/title/tt13157618
 
 - title: Indiana Jones and the Dial Of Destiny
   release: "Jun 30 2023"
