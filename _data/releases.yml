@@ -166,14 +166,6 @@
   notes: Phase Five
   link: https://www.imdb.com/title/tt6791350
 
-- title: Ahsoka
-  release: "August 2023"
-  date: 2023-08-30 00:00:00 -0000
-  studio: Lucasfilm
-  platform: Disney+
-  notes:
-  link: https://www.imdb.com/title/tt13622776
-
 - title: "The Legend of Zelda: Tears of the Kingdom"
   release: "May 12 2023"
   date: 2023-05-12 00:00:00 -0000
@@ -222,22 +214,6 @@
   notes:
   link: https://www.imdb.com/title/tt1462764
 
-- title: Echo
-  release: "Summer 2023"
-  date: 2023-06-21 00:00:00 -0000
-  studio: Marvel
-  platform: Disney+
-  notes:
-  link: https://www.imdb.com/title/tt13966962
-
-- title: Loki Season 2
-  release: "Summer 2023"
-  date: 2023-06-21 00:00:00 -0000
-  studio: Marvel
-  platform: Disney+
-  notes:
-  link: https://www.imdb.com/title/tt9140554
-
 - title: Indiana Jones and the Dial of Destiny
   release: "Jun 30 2023"
   date: 2023-06-30 00:00:00 -0000
@@ -270,6 +246,14 @@
   notes: Phase Five
   link: https://www.imdb.com/title/tt10676048
 
+- title: Ahsoka
+  release: "Aug 23 2023"
+  date: 2023-08-23 00:00:00 -0000
+  studio: Lucasfilm
+  platform: Disney+
+  notes:
+  link: https://www.imdb.com/title/tt13622776
+
 - title: The Creator
   release: "Sep 29 2023"
   date: 2023-09-29 00:00:00 -0000
@@ -277,6 +261,14 @@
   platform: Theaters
   notes: Gareth Edwards
   link: https://www.imdb.com/title/tt11858890
+
+- title: Loki Season 2
+  release: "Oct 6 2023"
+  date: 2023-10-06 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes:
+  link: https://www.imdb.com/title/tt9140554
 
 - title: X-Men '97
   release: "Fall 2023"
@@ -302,6 +294,14 @@
   notes: Denis Villeneuve
   link: https://www.imdb.com/title/tt15239678
 
+- title: Echo
+  release: "Nov 29 2023"
+  date: 2023-11-29 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes:
+  link: https://www.imdb.com/title/tt13966962
+
 - title: "Agatha: House of Harkness"
   release: "Winter 2023"
   date: 2023-12-22 00:00:00 -0000
@@ -311,8 +311,8 @@
   link: https://www.imdb.com/title/tt15571732
 
 - title: "Star Wars: Rogue Squadron"
-  release: "2023"
-  date: 2023-12-31 00:00:00 -0000
+  release: "Dec 22 2023"
+  date: 2023-12-22 00:00:00 -0000
   studio: Lucasfilm
   platform: Theaters
   notes:
