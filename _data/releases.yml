@@ -230,14 +230,6 @@
   notes: Christopher Nolan
   link: https://www.imdb.com/title/tt15398776
 
-- title: The Marvels
-  release: "Jul 28 2023"
-  date: 2023-07-28 00:00:00 -0000
-  studio: Marvel
-  platform: Theaters
-  notes: Phase Five
-  link: https://www.imdb.com/title/tt10676048
-
 - title: Blue Beetle
   release: "Aug 18 2023"
   date: 2023-08-18 00:00:00 -0000
@@ -293,6 +285,14 @@
   platform: Theaters
   notes: Denis Villeneuve
   link: https://www.imdb.com/title/tt15239678
+
+- title: The Marvels
+  release: "Nov 10 2023"
+  date: 2023-11-10 00:00:00 -0000
+  studio: Marvel
+  platform: Theaters
+  notes: Phase Five
+  link: https://www.imdb.com/title/tt10676048
 
 - title: Echo
   release: "Nov 29 2023"
