@@ -1,3 +1,27 @@
+- title: The Sandman
+  release: "Aug 5 2022"
+  date: 2022-08-05 00:00:00 -0000
+  studio: DC
+  platform: Netflix
+  notes: Neil Gaiman
+  link: https://www.imdb.com/title/tt1751634
+
+- title: I Am Groot Season 1
+  release: "Aug 10 2022"
+  date: 2022-08-10 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes: Animated Shorts
+  link: https://www.imdb.com/title/tt13623148
+
+- title: She-Hulk
+  release: "Aug 17 2022"
+  date: 2022-08-17 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes:
+  link: https://www.imdb.com/title/tt10857160
+
 - title: Andor
   release: "Aug 31 2022"
   date: 2022-08-31 00:00:00 -0000
@@ -37,14 +61,6 @@
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt13623136
-
-- title: Willow Season 1
-  release: "Nov 30 2022"
-  date: 2022-11-30 00:00:00 -0000
-  studio: Lucasfilm
-  platform: Disney+
-  notes:
-  link: https://www.imdb.com/title/tt10278918
 
 - title: "Avatar: The Way of Water"
   release: "Dec 16 2022"
@@ -93,14 +109,6 @@
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt8111088
-
-- title: 65
-  release: "Mar 10 2023"
-  date: 2023-03-10 00:00:00 -0000
-  studio: Columbia Pictures
-  platform: Theaters
-  notes: Adam Driver, writers of A Quiet Place
-  link: https://www.imdb.com/title/tt12261776
 
 - title: Shazam! Fury of the Gods
   release: "Mar 17 2023"
@@ -211,16 +219,24 @@
   date: 2023-08-18 00:00:00 -0000
   studio: DC
   platform: Theaters
-  notes: 
+  notes:
   link: https://www.imdb.com/title/tt9362930
 
 - title: Ahsoka
-  release: "Aug 23 2023"
-  date: 2023-08-23 00:00:00 -0000
+  release: "Aug 22 2023"
+  date: 2023-08-22 00:00:00 -0000
   studio: Lucasfilm
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt13622776
+
+- title: I Am Groot Season 2
+  release: "Sep 6 2023"
+  date: 2022-09-06 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes: Animated Shorts
+  link: https://www.imdb.com/title/tt13623148
 
 - title: The Creator
   release: "Sep 29 2023"
@@ -231,28 +247,12 @@
   link: https://www.imdb.com/title/tt11858890
 
 - title: Loki Season 2
-  release: "Oct 6 2023"
-  date: 2023-10-06 00:00:00 -0000
+  release: "Oct 5 2023"
+  date: 2023-10-05 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt9140554
-
-- title: X-Men '97
-  release: "Fall 2023"
-  date: 2023-09-23 00:00:00 -0000
-  studio: Marvel
-  platform: Disney+
-  notes: Animated Series
-  link: https://www.imdb.com/title/tt16026746
-
-- title: Ironheart
-  release: "Fall 2023"
-  date: 2023-09-23 00:00:00 -0000
-  studio: Marvel
-  platform: Disney+
-  notes:
-  link: https://www.imdb.com/title/tt10168312
 
 - title: "Dune: Part Two"
   release: "Nov 3 2023"
@@ -270,13 +270,13 @@
   notes: Phase Five
   link: https://www.imdb.com/title/tt10676048
 
-- title: Echo
-  release: "Nov 29 2023"
-  date: 2023-11-29 00:00:00 -0000
-  studio: Marvel
-  platform: Disney+
+- title: Aquaman and The Lost Kingdom
+  release: "Dec 20 2023"
+  date: 2023-12-20 00:00:00 -0000
+  studio: DC
+  platform: Theaters
   notes:
-  link: https://www.imdb.com/title/tt13966962
+  link: https://www.imdb.com/title/tt9663764
 
 - title: "Agatha: House of Harkness"
   release: "Winter 2023"
@@ -286,13 +286,37 @@
   notes:
   link: https://www.imdb.com/title/tt15571732
 
+- title: Ironheart
+  release: "2023"
+  date: 2023-12-31 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes:
+  link: https://www.imdb.com/title/tt13623126
+
 - title: "Star Wars: Rogue Squadron"
-  release: "Dec 22 2023"
-  date: 2023-12-22 00:00:00 -0000
+  release: "2023"
+  date: 2023-12-31 00:00:00 -0000
   studio: Lucasfilm
   platform: Theaters
   notes:
   link: https://www.imdb.com/title/tt10300394
+
+- title: X-Men '97
+  release: "2023"
+  date: 2023-12-31 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes: Animated Series
+  link: https://www.imdb.com/title/tt16026746
+
+- title: Echo
+  release: "January 2024"
+  date: 2024-01-31 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes:
+  link: https://www.imdb.com/title/tt13966962
 
 - title: "Spider-Man: Freshman Year"
   release: "2024"
@@ -405,6 +429,14 @@
   platform: Theaters
   notes: Phase Six
   link: https://www.imdb.com/title/tt21361444
+
+- title: "Superman: Legacy"
+  release: "2025"
+  date: 2025-07-11 00:00:00 -0000
+  studio: DC
+  platform: Theaters
+  notes: James Gunn
+  link: https://www.imdb.com/title/tt5950044
 
 - title: "Avatar 3"
   release: "Dec 18 2026"

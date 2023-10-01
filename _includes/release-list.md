@@ -6,9 +6,15 @@
 {% assign futureItems = items | where_exp:"item","item.date >= site.time" %}
 {% assign futureItems = futureItems | sort: "date", "last" %}
 
+{% if pastItems and pastItems.size != 0 and futureItems and futureItems.size != 0 %}
+
+[Released](#released) \| [Upcoming](#upcoming)
+
+{% endif %}
+
 {% if pastItems and pastItems.size != 0 %}
 
-Released:
+### Released:
 
 | Title | Date | Platform | Studio | Notes |
 | ----- | ---- | -------- | ------ | ----- |
@@ -19,7 +25,7 @@ Released:
 
 {% if futureItems and futureItems.size != 0 %}
 
-Upcoming:
+### Upcoming:
 
 | Title | Date | Platform | Studio | Notes |
 | ----- | ---- | -------- | ------ | ----- |
