@@ -87,8 +87,8 @@
   link: https://www.imdb.com/title/tt3581920
 
 - title: What If…?
-  release: "Early 2023"
-  date: 2023-03-01 00:00:00 -0000
+  release: "Aug 11 2023"
+  date: 2023-08-11 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes: Animated Series
@@ -261,6 +261,14 @@
   platform: Theaters
   notes: Phase Five
   link: https://www.imdb.com/title/tt10676048
+
+- title: What If…? Season 2
+  release: "Dec 22 2023"
+  date: 2023-12-22 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes: Animated Series
+  link: https://www.imdb.com/title/tt10168312
 
 - title: Aquaman and The Lost Kingdom
   release: "Dec 22 2023"
