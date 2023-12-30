@@ -278,6 +278,14 @@
   notes:
   link: https://www.imdb.com/title/tt9663764
 
+- title: "Avatar: The Last Airbender"
+  release: "Feb 22 2024"
+  date: 2024-02-22 00:00:00 -0000
+  studio: 
+  platform: Netflix
+  notes: 
+  link: https://www.imdb.com/title/tt9018736
+
 - title: "Agatha: House of Harkness"
   release: "2024"
   date: 2024-12-31 00:00:00 -0000
@@ -311,8 +319,8 @@
   link: https://www.imdb.com/title/tt16026746
 
 - title: Echo
-  release: "Jan 10 2024"
-  date: 2024-01-10 00:00:00 -0000
+  release: "Jan 9 2024"
+  date: 2024-01-09 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes:
