@@ -8,18 +8,7 @@
 
 {% if pastItems and pastItems.size != 0 and futureItems and futureItems.size != 0 %}
 
-[Released](#released) \| [Upcoming](#upcoming)
-
-{% endif %}
-
-{% if pastItems and pastItems.size != 0 %}
-
-### Released:
-
-| Title | Date | Platform | Studio | Notes |
-| ----- | ---- | -------- | ------ | ----- |
-{% for release in pastItems reversed %}| {% if release.link %} [{{ release.title }}]({{ release.link }}) {% else %} {{ release.title }} {% endif %} | {{ release.release }} | {{ release.platform }} | {{ release.studio }} | {{ release.notes }} |
-{% endfor %}
+[Upcoming](#upcoming) \| [Released](#released)
 
 {% endif %}
 
@@ -30,6 +19,17 @@
 | Title | Date | Platform | Studio | Notes |
 | ----- | ---- | -------- | ------ | ----- |
 {% for release in futureItems %}| {% if release.link %} [{{ release.title }}]({{ release.link }}) {% else %} {{ release.title }} {% endif %} | {{ release.release }} | {{ release.platform }} | {{ release.studio }} | {{ release.notes }} |
+{% endfor %}
+
+{% endif %}
+
+{% if pastItems and pastItems.size != 0 %}
+
+### Released:
+
+| Title | Date | Platform | Studio | Notes |
+| ----- | ---- | -------- | ------ | ----- |
+{% for release in pastItems reversed %}| {% if release.link %} [{{ release.title }}]({{ release.link }}) {% else %} {{ release.title }} {% endif %} | {{ release.release }} | {{ release.platform }} | {{ release.studio }} | {{ release.notes }} |
 {% endfor %}
 
 {% endif %}
