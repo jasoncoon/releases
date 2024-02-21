@@ -297,9 +297,9 @@
 - title: "Avatar: The Last Airbender"
   release: "Feb 22 2024"
   date: 2024-02-22 00:00:00 -0000
-  studio: 
+  studio:
   platform: Netflix
-  notes: 
+  notes:
   link: https://www.imdb.com/title/tt9018736
 
 - title: "Dune: Part Two"
@@ -313,17 +313,17 @@
 - title: 3 Body Problem
   release: "Mar 21 2024"
   date: 2024-03-21 00:00:00 -0000
-  studio: 
+  studio:
   platform: Netflix
-  notes: 
+  notes:
   link: https://www.imdb.com/title/tt13016388
 
 - title: "Furiosa: A Mad Max Saga"
   release: "May 24 2024"
   date: 2024-05-24 00:00:00 -0000
-  studio: 
+  studio:
   platform: Theaters
-  notes: 
+  notes:
   link: https://www.imdb.com/title/tt12037194
 
 - title: Deadpool 3
@@ -334,10 +334,18 @@
   notes:
   link: https://www.imdb.com/title/tt6263850
 
+- title: "Borderlands"
+  release: "Aug 9 2024"
+  date: 2024-08-09 00:00:00 -0000
+  studio:
+  platform: Theaters
+  notes:
+  link: https://www.imdb.com/title/tt4978420
+
 - title: Arcane Season 2
   release: "Nov 2024"
   date: 2024-11-30 00:00:00 -0000
-  studio: 
+  studio:
   platform: Netflix
   notes: Animated Series
   link: https://www.imdb.com/title/tt11126994
@@ -373,7 +381,7 @@
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt13623126
-  
+
 - title: Marvel Zombies
   release: "2024"
   date: 2024-12-31 00:00:04 -0000
@@ -381,7 +389,6 @@
   platform: Disney+
   notes: Animated Series
   link: https://www.imdb.com/title/tt16027014
-
 
 - title: "Skeleton Crew"
   release: "2024"
