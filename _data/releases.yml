@@ -310,6 +310,14 @@
   notes: Denis Villeneuve
   link: https://www.imdb.com/title/tt15239678
 
+- title: X-Men '97
+  release: "Mar 20 2024"
+  date: 2024-03-20 00:00:07 -0000
+  studio: Marvel
+  platform: Disney+
+  notes: Animated Series
+  link: https://www.imdb.com/title/tt16026746
+
 - title: 3 Body Problem
   release: "Mar 21 2024"
   date: 2024-03-21 00:00:00 -0000
@@ -405,14 +413,6 @@
   platform: Theaters
   notes:
   link: https://www.imdb.com/title/tt10300394
-
-- title: X-Men '97
-  release: "2024"
-  date: 2024-12-31 00:00:07 -0000
-  studio: Marvel
-  platform: Disney+
-  notes: Animated Series
-  link: https://www.imdb.com/title/tt16026746
 
 - title: "Your Friendly Neighborhood Spider-Man"
   release: "2024"
