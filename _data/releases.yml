@@ -302,6 +302,14 @@
   notes:
   link: https://www.imdb.com/title/tt9018736
 
+- title: Kung Fu Panda 4
+  release: "Mar 8 2024"
+  date: 2024-03-08 00:00:00 -0000
+  studio: 
+  platform: Theaters
+  notes: 
+  link: https://www.imdb.com/title/tt21692408
+
 - title: "Dune: Part Two"
   release: "Mar 1 2024"
   date: 2024-03-01 00:00:00 -0000
@@ -326,6 +334,30 @@
   notes:
   link: https://www.imdb.com/title/tt13016388
 
+- title: "Ghostbusters: Frozen Empire"
+  release: "Mar 22 2024"
+  date: 2024-03-22 00:00:00 -0000
+  studio: 
+  platform: Theaters
+  notes:
+  link: https://www.imdb.com/title/tt21235248
+
+- title: "The Spider Within: A Spider-Verse Story"
+  release: "Mar 27 2024"
+  date: 2024-03-27 00:00:00 -0000
+  studio: Sony
+  platform: YouTube
+  notes: https://www.youtube.com/@SonyAnimation
+  link: https://www.imdb.com/title/tt27369002
+
+- title: "Godzilla x Kong: The New Empire"
+  release: "Mar 29 2024"
+  date: 2024-03-29 00:00:00 -0000
+  studio:
+  platform: Theaters
+  notes:
+  link: https://www.imdb.com/title/tt14539740
+
 - title: Fallout
   release: "Apr 11, 2024"
   date: 2024-04-11 00:00:00 -0000
@@ -342,7 +374,15 @@
   notes:
   link: https://www.imdb.com/title/tt12037194
 
-- title: Deadpool 3
+- title: "A Quiet Place: Day One"
+  release: "Jun 28 2024"
+  date: 2024-06-28 00:00:00 -0000
+  studio:
+  platform: Theaters
+  notes:
+  link: https://www.imdb.com/title/tt13433802
+
+- title: Deadpool & Wolverine
   release: "Jul 26 2024"
   date: 2024-07-26 00:00:00 -0000
   studio: Marvel
@@ -357,6 +397,14 @@
   platform: Theaters
   notes:
   link: https://www.imdb.com/title/tt4978420
+
+- title: "The Wild Robot"
+  release: "Sep 20 2024"
+  date: 2024-09-20 00:00:00 -0000
+  studio: DreamWorks
+  platform: Theaters
+  notes:
+  link: https://www.imdb.com/title/tt29623480
 
 - title: Arcane Season 2
   release: "Nov 2024"
@@ -437,6 +485,14 @@
   platform: Theaters
   notes: Phase Five
   link: https://www.imdb.com/title/tt14513804
+
+- title: "Mission: Impossible - Dead Reckoning Part Two"
+  release: "May 23 2025"
+  date: 2025-05-23 00:00:00 -0000
+  studio: 
+  platform: Theaters
+  notes: 
+  link: https://www.imdb.com/title/tt9603208
 
 - title: "Kingdom of the Planet of the Apes"
   release: "May 24 2024"
