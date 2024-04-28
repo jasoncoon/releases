@@ -241,7 +241,7 @@
 - title: The Creator
   release: "Sep 29 2023"
   date: 2023-09-29 00:00:00 -0000
-  studio: 20th Century Studios
+  studio: 20th Century
   platform: Theaters
   notes: Gareth Edwards
   link: https://www.imdb.com/title/tt11858890
@@ -347,7 +347,7 @@
   date: 2024-03-27 00:00:00 -0000
   studio: Sony
   platform: YouTube
-  notes: https://www.youtube.com/@SonyAnimation
+  notes: https://www.youtube.com/watch?v=AFPLRIdn1pk
   link: https://www.imdb.com/title/tt27369002
 
 - title: "Godzilla x Kong: The New Empire"
@@ -362,9 +362,17 @@
   release: "Apr 11, 2024"
   date: 2024-04-11 00:00:00 -0000
   studio: Bethesda Game Studios
-  platform: Amazon Prime
+  platform: Amazon
   notes: TV Series
   link: https://www.imdb.com/title/tt12637874
+
+- title: "Kingdom of the Planet of the Apes"
+  release: "May 10 2024"
+  date: 2024-05-10 00:00:00 -0000
+  studio: 20th Century
+  platform: Theaters
+  notes:
+  link: https://www.imdb.com/title/tt11389872/
 
 - title: "Furiosa: A Mad Max Saga"
   release: "May 24 2024"
@@ -373,6 +381,14 @@
   platform: Theaters
   notes:
   link: https://www.imdb.com/title/tt12037194
+
+- title: The Acolyte
+  release: "Jun 4 2024"
+  date: 2024-06-04 00:00:00 -0000
+  studio: Lucasfilm
+  platform: Disney+
+  notes:
+  link: https://www.imdb.com/title/tt12262202
 
 - title: "A Quiet Place: Day One"
   release: "Jun 28 2024"
@@ -398,9 +414,17 @@
   notes:
   link: https://www.imdb.com/title/tt4978420
 
+-title: "Alien: Romulus"
+  release: "Aug 16 2024"
+  date: 2024-08-16 00:00:00 -0000
+  studio:
+  platform: Theaters
+  notes:
+  link: https://www.imdb.com/title/tt18412256
+
 - title: "The Wild Robot"
-  release: "Sep 20 2024"
-  date: 2024-09-20 00:00:00 -0000
+  release: "Sep 27 2024"
+  date: 2024-09-27 00:00:00 -0000
   studio: DreamWorks
   platform: Theaters
   notes:
@@ -493,14 +517,6 @@
   platform: Theaters
   notes: 
   link: https://www.imdb.com/title/tt9603208
-
-- title: "Kingdom of the Planet of the Apes"
-  release: "May 24 2024"
-  date: 2024-05-24 00:00:00 -0000
-  studio: 20th Century Fox
-  platform: Theaters
-  notes:
-  link: https://www.imdb.com/title/tt11389872/
 
 - title: Fantastic Four
   release: "May 2 2025"
