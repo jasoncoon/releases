@@ -347,7 +347,7 @@
   date: 2024-03-27 00:00:00 -0000
   studio: Sony
   platform: YouTube
-  notes: https://www.youtube.com/watch?v=AFPLRIdn1pk
+  notes: youtube.com/watch?v=AFPLRIdn1pk
   link: https://www.imdb.com/title/tt27369002
 
 - title: "Godzilla x Kong: The New Empire"
@@ -565,6 +565,14 @@
   platform: Theaters
   notes: Phase Six
   link: https://www.imdb.com/title/tt21357150
+
+- title: Project Hail Mary
+  release: "May 20 2026"
+  date: 2026-05-20 00:00:00 -0000
+  studio: 
+  platform: Theaters
+  notes: Andy Weir
+  link: https://www.imdb.com/title/tt12042730
 
 - title: "Avengers: Secret Wars"
   release: "May 7 2027"
