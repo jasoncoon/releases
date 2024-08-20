@@ -438,9 +438,9 @@
   notes: Animated Series
   link: https://www.imdb.com/title/tt11126994
 
-- title: "Agatha: Darkhold Diaries"
-  release: "2024"
-  date: 2024-12-31 00:00:00 -0000
+- title: "Agatha All Along"
+  release: "Sep 18 2024"
+  date: 2024-09-18 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes:
@@ -448,23 +448,23 @@
 
 - title: Armor Wars
   release: "2024"
-  date: 2024-12-31 00:00:01 -0000
+  date: 2024-12-31 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt13623128
 
 - title: "Daredevil: Born Again"
-  release: "2024"
-  date: 2024-12-31 00:00:02 -0000
+  release: "Mar 1 2025"
+  date: 2025-03-01 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt20411934
 
 - title: Ironheart
-  release: "2024"
-  date: 2024-12-31 00:00:03 -0000
+  release: "2025"
+  date: 2025-12-31 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes:
@@ -479,24 +479,24 @@
   link: https://www.imdb.com/title/tt16027014
 
 - title: "Skeleton Crew"
-  release: "2024"
-  date: 2024-12-31 00:00:05 -0000
+  release: "Dec 3 2024"
+  date: 2024-12-03 00:00:05 -0000
   studio: Lucasfilm
   platform: Theaters
   notes:
   link: https://www.imdb.com/title/tt20600980
 
 - title: "Star Wars: Rogue Squadron"
-  release: "2024"
-  date: 2024-12-31 00:00:06 -0000
+  release: "2025"
+  date: 2025-12-31 00:00:00 -0000
   studio: Lucasfilm
   platform: Theaters
   notes:
   link: https://www.imdb.com/title/tt10300394
 
 - title: "Your Friendly Neighborhood Spider-Man"
-  release: "2024"
-  date: 2024-12-31 00:00:08 -0000
+  release: "Nov 2 2024"
+  date: 2024-11-02 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes: Animated Series
@@ -519,8 +519,8 @@
   link: https://www.imdb.com/title/tt9603208
 
 - title: Fantastic Four
-  release: "May 2 2025"
-  date: 2025-05-02 00:00:00 -0000
+  release: "Jul 25 2025"
+  date: 2025-06-25 00:00:00 -0000
   studio: Marvel
   platform: Theaters
   notes: Phase Six
@@ -535,8 +535,8 @@
   link: https://www.imdb.com/title/tt5950044
 
 - title: Thunderbolts
-  release: "Jul 25 2025"
-  date: 2025-07-25 00:00:00 -0000
+  release: "May 2 2025"
+  date: 2025-05-02 00:00:00 -0000
   studio: Marvel
   platform: Theaters
   notes:
@@ -558,7 +558,7 @@
   notes: James Cameron
   link: https://www.imdb.com/title/tt1757678
 
-- title: "Avengers: The Kang Dynasty"
+- title: "Avengers: Doomsday"
   release: "May 1 2026"
   date: 2026-05-01 00:00:00 -0000
   studio: Marvel
