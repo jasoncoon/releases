@@ -305,9 +305,9 @@
 - title: Kung Fu Panda 4
   release: "Mar 8 2024"
   date: 2024-03-08 00:00:00 -0000
-  studio: 
+  studio:
   platform: Theaters
-  notes: 
+  notes:
   link: https://www.imdb.com/title/tt21692408
 
 - title: "Dune: Part Two"
@@ -337,7 +337,7 @@
 - title: "Ghostbusters: Frozen Empire"
   release: "Mar 22 2024"
   date: 2024-03-22 00:00:00 -0000
-  studio: 
+  studio:
   platform: Theaters
   notes:
   link: https://www.imdb.com/title/tt21235248
@@ -451,20 +451,20 @@
   date: 2024-09-26 00:00:00 -0000
   studio: Nintendo
   platform: Switch
-  notes: 
+  notes:
   link: https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch
 
 - title: Armor Wars
-  release: "2024"
-  date: 2024-12-31 00:00:00 -0000
+  release: "2025"
+  date: 2025-12-31 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt13623128
 
 - title: "Daredevil: Born Again"
-  release: "Mar 1 2025"
-  date: 2025-03-01 00:00:00 -0000
+  release: "Mar 4 2025"
+  date: 2025-03-04 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes:
@@ -479,8 +479,8 @@
   link: https://www.imdb.com/title/tt13623126
 
 - title: Marvel Zombies
-  release: "2024"
-  date: 2024-12-31 00:00:04 -0000
+  release: "Oct 2025"
+  date: 2025-10-31 00:00:04 -0000
   studio: Marvel
   platform: Disney+
   notes: Animated Series
@@ -503,14 +503,14 @@
   link: https://www.imdb.com/title/tt10300394
 
 - title: "Your Friendly Neighborhood Spider-Man"
-  release: "Nov 2 2024"
-  date: 2024-11-02 00:00:00 -0000
+  release: "Jan 29 2025"
+  date: 2025-01-29 00:00:00 -0000
   studio: Marvel
   platform: Disney+
   notes: Animated Series
   link: https://www.imdb.com/title/tt16027074
 
-- title: "Captain America: New World Order"
+- title: "Captain America: Brave New World"
   release: "Feb 14 2025"
   date: 2025-02-14 00:00:00 -0000
   studio: Marvel
@@ -521,9 +521,9 @@
 - title: "Mission: Impossible - Dead Reckoning Part Two"
   release: "May 23 2025"
   date: 2025-05-23 00:00:00 -0000
-  studio: 
+  studio:
   platform: Theaters
-  notes: 
+  notes:
   link: https://www.imdb.com/title/tt9603208
 
 - title: Fantastic Four
@@ -577,7 +577,7 @@
 - title: Project Hail Mary
   release: "May 20 2026"
   date: 2026-05-20 00:00:00 -0000
-  studio: 
+  studio:
   platform: Theaters
   notes: Andy Weir
   link: https://www.imdb.com/title/tt12042730
