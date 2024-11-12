@@ -270,6 +270,14 @@
   notes: Animated Series
   link: https://www.imdb.com/title/tt10168312
 
+- title: What If…? Season 3
+  release: "Dec 22 2024"
+  date: 2024-12-22 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes: Animated Series
+  link: https://www.imdb.com/title/tt10168312
+
 - title: Aquaman and The Lost Kingdom
   release: "Dec 22 2023"
   date: 2023-12-22 00:00:00 -0000
@@ -438,6 +446,22 @@
   notes: Animated Series
   link: https://www.imdb.com/title/tt11126994
 
+- title: "Silo Season 2"
+  release: "Nov 15 2024"
+  date: 2024-11-15 00:00:00 -0000
+  studio:
+  platform: Apple
+  notes:
+  link: https://www.imdb.com/title/tt14688458
+
+- title: "Dune: Prophecy"
+  release: "Nov 17 2024"
+  date: 2024-11-17 00:00:00 -0000
+  studio:
+  platform: Max
+  notes:
+  link: https://www.imdb.com/title/tt10466872
+
 - title: "Agatha All Along"
   release: "Sep 18 2024"
   date: 2024-09-18 00:00:00 -0000
@@ -486,13 +510,21 @@
   notes: Animated Series
   link: https://www.imdb.com/title/tt16027014
 
-- title: "Skeleton Crew"
+- title: "Star Wars: Skeleton Crew"
   release: "Dec 3 2024"
   date: 2024-12-03 00:00:05 -0000
   studio: Lucasfilm
-  platform: Theaters
+  platform: Disney+
   notes:
   link: https://www.imdb.com/title/tt20600980
+
+- title: "Gladiator II"
+  release: "Nov 22 2024"
+  date: 2024-11-22 00:00:00 -0000
+  studio: Ridley Scott
+  platform: Theaters
+  notes:
+  link: https://www.imdb.com/title/tt9218128
 
 - title: "Star Wars: Rogue Squadron"
   release: "2025"
@@ -518,7 +550,7 @@
   notes: Phase Five
   link: https://www.imdb.com/title/tt14513804
 
-- title: "Mission: Impossible - Dead Reckoning Part Two"
+- title: "Mission: Impossible - The Final Reckoning"
   release: "May 23 2025"
   date: 2025-05-23 00:00:00 -0000
   studio:
