@@ -478,13 +478,21 @@
   notes: null
   link: https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch
 
-- title: Armor Wars
-  release: "2025"
-  date: 2025-12-31 00:00:00 -0000
-  studio: Marvel
+- title: Gladiator II
+  release: Nov 22 2024
+  date: 2024-11-22 00:00:00 -0000
+  studio: Ridley Scott
+  platform: Theaters
+  notes: null
+  link: https://www.imdb.com/title/tt9218128
+
+- title: "Star Wars: Skeleton Crew"
+  release: Dec 3 2024
+  date: 2024-12-03 00:00:05 -0000
+  studio: Lucasfilm
   platform: Disney+
   notes: null
-  link: https://www.imdb.com/title/tt13623128
+  link: https://www.imdb.com/title/tt20600980
 
 - title: "Daredevil: Born Again"
   release: Mar 4 2025
@@ -493,6 +501,30 @@
   platform: Disney+
   notes: null
   link: https://www.imdb.com/title/tt20411934
+
+- title: "The Wheel of Time Season 2"
+  release: Mar 12 2025
+  date: 2025-03-13 00:00:00 -0000
+  studio: 
+  platform: Amazon
+  notes: null
+  link: https://www.imdb.com/title/tt7462410
+
+- title: The Last of Us
+  release: Apr 20 2025
+  date: 2025-04-20 00:00:00 -0000
+  studio: HBO
+  platform: HBO Max
+  notes: null
+  link: https://www.imdb.com/title/tt3581920
+
+- title: "Star Wars: Andor Season 2"
+  release: Apr 22 2025
+  date: 2025-04-22 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes: null
+  link: https://www.imdb.com/title/tt9253284
 
 - title: Ironheart
   release: "Jun 24 2025"
@@ -510,21 +542,13 @@
   notes: Animated Series
   link: https://www.imdb.com/title/tt16027014
 
-- title: "Star Wars: Skeleton Crew"
-  release: Dec 3 2024
-  date: 2024-12-03 00:00:05 -0000
-  studio: Lucasfilm
+- title: Armor Wars
+  release: "2025"
+  date: 2025-12-31 00:00:00 -0000
+  studio: Marvel
   platform: Disney+
   notes: null
-  link: https://www.imdb.com/title/tt20600980
-
-- title: Gladiator II
-  release: Nov 22 2024
-  date: 2024-11-22 00:00:00 -0000
-  studio: Ridley Scott
-  platform: Theaters
-  notes: null
-  link: https://www.imdb.com/title/tt9218128
+  link: https://www.imdb.com/title/tt13623128
 
 - title: "Star Wars: Rogue Squadron"
   release: "2025"
@@ -591,8 +615,8 @@
   link: https://www.imdb.com/title/tt6604188
 
 - title: Blade
-  release: Nov 7 2025
-  date: 2025-11-07 00:00:00 -0000
+  release: 2025
+  date: 2025-12-31 00:00:00 -0000
   studio: Marvel
   platform: Theaters
   notes: null
