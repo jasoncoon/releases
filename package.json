@@ -1,0 +1,23 @@
+{
+  "name": "releases",
+  "version": "1.0.0",
+  "author": "Jason Coon",
+  "license": "ISC",
+  "homepage": "https://jasoncoon.github.io/releases",
+  "type": "module",
+  "scripts": {
+    "start": "bundle exec jekyll serve",
+    "sort": "tsx sort.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasoncoon/releases.git"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^22.14.0",
+    "js-yaml": "^4.1.0",
+    "thenby": "^1.3.4",
+    "tsx": "^4.19.3"
+  }
+}

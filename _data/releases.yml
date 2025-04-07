@@ -30,6 +30,14 @@
   notes: null
   link: https://www.imdb.com/title/tt9253284
 
+- title: I Am Groot Season 2
+  release: Sep 6 2023
+  date: 2022-09-06 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes: Animated Shorts
+  link: https://www.imdb.com/title/tt13623148
+
 - title: Werewolf by Night
   release: Oct 7 2022
   date: 2022-10-07 00:00:00 -0000
@@ -86,14 +94,6 @@
   notes: null
   link: https://www.imdb.com/title/tt3581920
 
-- title: What If…?
-  release: Aug 11 2023
-  date: 2023-08-11 00:00:00 -0000
-  studio: Marvel
-  platform: Disney+
-  notes: Animated Series
-  link: https://www.imdb.com/title/tt10168312
-
 - title: "Ant-Man and the Wasp: Quantumania"
   release: Feb 17 2023
   date: 2023-02-17 00:00:00 -0000
@@ -118,14 +118,6 @@
   notes: null
   link: https://www.imdb.com/title/tt10151854
 
-- title: "John Wick: Chapter 4"
-  release: Mar 24 2023
-  date: 2023-03-24 00:00:00 -0000
-  studio: Lionsgate
-  platform: Theaters
-  notes: null
-  link: https://www.imdb.com/title/tt10366206
-
 - title: "Dungeons & Dragons: Honor Among Thieves"
   release: Mar 24 2023
   date: 2023-03-24 00:00:00 -0000
@@ -133,6 +125,14 @@
   platform: Theaters
   notes: Chris Pine
   link: https://www.imdb.com/title/tt2906216
+
+- title: "John Wick: Chapter 4"
+  release: Mar 24 2023
+  date: 2023-03-24 00:00:00 -0000
+  studio: Lionsgate
+  platform: Theaters
+  notes: null
+  link: https://www.imdb.com/title/tt10366206
 
 - title: The Super Mario Bros. Movie
   release: Apr 7 2023
@@ -214,6 +214,14 @@
   notes: Christopher Nolan
   link: https://www.imdb.com/title/tt15398776
 
+- title: What If…?
+  release: Aug 11 2023
+  date: 2023-08-11 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes: Animated Series
+  link: https://www.imdb.com/title/tt10168312
+
 - title: Blue Beetle
   release: Aug 18 2023
   date: 2023-08-18 00:00:00 -0000
@@ -229,14 +237,6 @@
   platform: Disney+
   notes: null
   link: https://www.imdb.com/title/tt13622776
-
-- title: I Am Groot Season 2
-  release: Sep 6 2023
-  date: 2022-09-06 00:00:00 -0000
-  studio: Marvel
-  platform: Disney+
-  notes: Animated Shorts
-  link: https://www.imdb.com/title/tt13623148
 
 - title: The Creator
   release: Sep 29 2023
@@ -262,22 +262,6 @@
   notes: Phase Five
   link: https://www.imdb.com/title/tt10676048
 
-- title: What If…? Season 2
-  release: Dec 22 2023
-  date: 2023-12-22 00:00:00 -0000
-  studio: Marvel
-  platform: Disney+
-  notes: Animated Series
-  link: https://www.imdb.com/title/tt10168312
-
-- title: What If…? Season 3
-  release: Dec 22 2024
-  date: 2024-12-22 00:00:00 -0000
-  studio: Marvel
-  platform: Disney+
-  notes: Animated Series
-  link: https://www.imdb.com/title/tt10168312
-
 - title: Aquaman and The Lost Kingdom
   release: Dec 22 2023
   date: 2023-12-22 00:00:00 -0000
@@ -285,6 +269,14 @@
   platform: Theaters
   notes: null
   link: https://www.imdb.com/title/tt9663764
+
+- title: What If…? Season 2
+  release: Dec 22 2023
+  date: 2023-12-22 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes: Animated Series
+  link: https://www.imdb.com/title/tt10168312
 
 - title: Echo
   release: Jan 9 2024
@@ -310,14 +302,6 @@
   notes: null
   link: https://www.imdb.com/title/tt9018736
 
-- title: Kung Fu Panda 4
-  release: Mar 8 2024
-  date: 2024-03-08 00:00:00 -0000
-  studio: null
-  platform: Theaters
-  notes: null
-  link: https://www.imdb.com/title/tt21692408
-
 - title: "Dune: Part Two"
   release: Mar 1 2024
   date: 2024-03-01 00:00:00 -0000
@@ -325,6 +309,14 @@
   platform: Theaters
   notes: Denis Villeneuve
   link: https://www.imdb.com/title/tt15239678
+
+- title: Kung Fu Panda 4
+  release: Mar 8 2024
+  date: 2024-03-08 00:00:00 -0000
+  studio: null
+  platform: Theaters
+  notes: null
+  link: https://www.imdb.com/title/tt21692408
 
 - title: X-Men '97
   release: Mar 20 2024
@@ -430,6 +422,23 @@
   notes: null
   link: https://www.imdb.com/title/tt18412256
 
+- title: Agatha All Along
+  release: Sep 18 2024
+  date: 2024-09-18 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes: null
+  link: https://www.imdb.com/title/tt15571732
+
+- title: "The Legend of Zelda: Echoes of Wisdom"
+  release: Sep 26 2024
+  date: 2024-09-26 00:00:00 -0000
+  studio: Nintendo
+  platform: Switch
+  notes: null
+  link: >-
+    https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch
+
 - title: The Wild Robot
   release: Sep 27 2024
   date: 2024-09-27 00:00:00 -0000
@@ -462,22 +471,6 @@
   notes: null
   link: https://www.imdb.com/title/tt10466872
 
-- title: Agatha All Along
-  release: Sep 18 2024
-  date: 2024-09-18 00:00:00 -0000
-  studio: Marvel
-  platform: Disney+
-  notes: null
-  link: https://www.imdb.com/title/tt15571732
-
-- title: "The Legend of Zelda: Echoes of Wisdom"
-  release: Sep 26 2024
-  date: 2024-09-26 00:00:00 -0000
-  studio: Nintendo
-  platform: Switch
-  notes: null
-  link: https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch
-
 - title: Gladiator II
   release: Nov 22 2024
   date: 2024-11-22 00:00:00 -0000
@@ -494,6 +487,30 @@
   notes: null
   link: https://www.imdb.com/title/tt20600980
 
+- title: What If…? Season 3
+  release: Dec 22 2024
+  date: 2024-12-22 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes: Animated Series
+  link: https://www.imdb.com/title/tt10168312
+
+- title: Your Friendly Neighborhood Spider-Man
+  release: Jan 29 2025
+  date: 2025-01-29 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes: Animated Series
+  link: https://www.imdb.com/title/tt16027074
+
+- title: "Captain America: Brave New World"
+  release: Feb 14 2025
+  date: 2025-02-14 00:00:00 -0000
+  studio: Marvel
+  platform: Theaters
+  notes: Phase Five
+  link: https://www.imdb.com/title/tt14513804
+
 - title: "Daredevil: Born Again"
   release: Mar 4 2025
   date: 2025-03-04 00:00:00 -0000
@@ -502,10 +519,10 @@
   notes: null
   link: https://www.imdb.com/title/tt20411934
 
-- title: "The Wheel of Time Season 2"
+- title: The Wheel of Time Season 2
   release: Mar 12 2025
   date: 2025-03-13 00:00:00 -0000
-  studio: 
+  studio: null
   platform: Amazon
   notes: null
   link: https://www.imdb.com/title/tt7462410
@@ -526,53 +543,13 @@
   notes: null
   link: https://www.imdb.com/title/tt9253284
 
-- title: Ironheart
-  release: "Jun 24 2025"
-  date: 2025-06-24 00:00:00 -0000
-  studio: Marvel
-  platform: Disney+
-  notes: null
-  link: https://www.imdb.com/title/tt13623126
-
-- title: Marvel Zombies
-  release: Oct 23 2025
-  date: 2025-10-23 00:00:00 -0000
-  studio: Marvel
-  platform: Disney+
-  notes: Animated Series
-  link: https://www.imdb.com/title/tt16027014
-
-- title: Armor Wars
-  release: "2025"
-  date: 2025-12-31 00:00:00 -0000
-  studio: Marvel
-  platform: Disney+
-  notes: null
-  link: https://www.imdb.com/title/tt13623128
-
-- title: "Star Wars: Rogue Squadron"
-  release: "2025"
-  date: 2025-12-31 00:00:00 -0000
-  studio: Lucasfilm
-  platform: Theaters
-  notes: null
-  link: https://www.imdb.com/title/tt10300394
-
-- title: Your Friendly Neighborhood Spider-Man
-  release: Jan 29 2025
-  date: 2025-01-29 00:00:00 -0000
-  studio: Marvel
-  platform: Disney+
-  notes: Animated Series
-  link: https://www.imdb.com/title/tt16027074
-
-- title: "Captain America: Brave New World"
-  release: Feb 14 2025
-  date: 2025-02-14 00:00:00 -0000
+- title: Thunderbolts
+  release: May 2 2025
+  date: 2025-05-02 00:00:00 -0000
   studio: Marvel
   platform: Theaters
-  notes: Phase Five
-  link: https://www.imdb.com/title/tt14513804
+  notes: null
+  link: https://www.imdb.com/title/tt20969586
 
 - title: "Mission: Impossible - The Final Reckoning"
   release: May 23 2025
@@ -582,13 +559,13 @@
   notes: null
   link: https://www.imdb.com/title/tt9603208
 
-- title: Fantastic Four
-  release: Jul 25 2025
-  date: 2025-07-25 00:00:00 -0000
+- title: Ironheart
+  release: Jun 24 2025
+  date: 2025-06-24 00:00:00 -0000
   studio: Marvel
-  platform: Theaters
-  notes: Phase Six
-  link: https://www.imdb.com/title/tt10676052
+  platform: Disney+
+  notes: null
+  link: https://www.imdb.com/title/tt13623126
 
 - title: "Superman: Legacy"
   release: Jul 11 2025
@@ -598,13 +575,13 @@
   notes: James Gunn
   link: https://www.imdb.com/title/tt5950044
 
-- title: Thunderbolts
-  release: May 2 2025
-  date: 2025-05-02 00:00:00 -0000
+- title: Fantastic Four
+  release: Jul 25 2025
+  date: 2025-07-25 00:00:00 -0000
   studio: Marvel
   platform: Theaters
-  notes: null
-  link: https://www.imdb.com/title/tt20969586
+  notes: Phase Six
+  link: https://www.imdb.com/title/tt10676052
 
 - title: "Tron: Ares"
   release: Oct 10 2025
@@ -614,13 +591,13 @@
   notes: null
   link: https://www.imdb.com/title/tt6604188
 
-- title: Blade
-  release: 2025
-  date: 2025-12-31 00:00:00 -0000
+- title: Marvel Zombies
+  release: Oct 23 2025
+  date: 2025-10-23 00:00:00 -0000
   studio: Marvel
-  platform: Theaters
-  notes: null
-  link: https://www.imdb.com/title/tt10671440
+  platform: Disney+
+  notes: Animated Series
+  link: https://www.imdb.com/title/tt16027014
 
 - title: Avatar 3
   release: Dec 19 2025
@@ -629,6 +606,30 @@
   platform: Theaters
   notes: James Cameron
   link: https://www.imdb.com/title/tt1757678
+
+- title: Armor Wars
+  release: "2025"
+  date: 2025-12-31 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes: null
+  link: https://www.imdb.com/title/tt13623128
+
+- title: Blade
+  release: "2025"
+  date: 2025-12-31 00:00:00 -0000
+  studio: Marvel
+  platform: Theaters
+  notes: null
+  link: https://www.imdb.com/title/tt10671440
+
+- title: "Star Wars: Rogue Squadron"
+  release: "2025"
+  date: 2025-12-31 00:00:00 -0000
+  studio: Lucasfilm
+  platform: Theaters
+  notes: null
+  link: https://www.imdb.com/title/tt10300394
 
 - title: "Avengers: Doomsday"
   release: May 1 2026
