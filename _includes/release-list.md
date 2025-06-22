@@ -1,6 +1,6 @@
 {% if items %}
 
-{% assign pastItems = items | where_exp:"item","item.date <= site.time" %}
+{% assign pastItems = items %} <!-- | where_exp:"item","item.date <= site.time" %} -->
 {% assign pastItems = pastItems | sort: "date", "last" %}
 
 {% assign futureItems = items | where_exp:"item","item.date >= site.time" %}
