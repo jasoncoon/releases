@@ -561,8 +561,8 @@
 
 - title: 28 Years Later
   release: Jun 20 2025
-  date: 2025-06-29 00:00:00 -0000
-  studio:
+  date: 2025-06-20 00:00:00 -0000
+  studio: null
   platform: Theaters
   notes: Danny Boyle & Alex Garland
   link: https://www.imdb.com/title/tt10548174
@@ -591,14 +591,6 @@
   notes: Phase Six
   link: https://www.imdb.com/title/tt10676052
 
-- title: "Tron: Ares"
-  release: Oct 10 2025
-  date: 2025-10-10 00:00:00 -0000
-  studio: Disney
-  platform: Theaters
-  notes: null
-  link: https://www.imdb.com/title/tt6604188
-
 - title: Marvel Zombies
   release: Oct 3 2025
   date: 2025-10-03 00:00:00 -0000
@@ -607,10 +599,18 @@
   notes: Animated Series
   link: https://www.imdb.com/title/tt16027014
 
+- title: "Tron: Ares"
+  release: Oct 10 2025
+  date: 2025-10-10 00:00:00 -0000
+  studio: Disney
+  platform: Theaters
+  notes: null
+  link: https://www.imdb.com/title/tt6604188
+
 - title: "Predator: Badlands"
   release: Nov 7 2025
   date: 2025-11-07 00:00:00 -0000
-  studio:
+  studio: null
   platform: Theaters
   notes: Dan Trachtenberg
   link: https://www.imdb.com/title/tt31227572
@@ -618,7 +618,7 @@
 - title: Frankenstein
   release: Nov 2025
   date: 2025-11-31 00:00:00 -0000
-  studio:
+  studio: null
   platform: Netflix
   notes: Guillermo del Toro & Oscar Isaac
   link: https://www.imdb.com/title/tt1312221
@@ -658,7 +658,7 @@
 - title: "28 Years Later: The Bone Temple"
   release: Jan 16 2026
   date: 2026-01-16 00:00:00 -0000
-  studio:
+  studio: null
   platform: Theaters
   notes: Alex Garland
   link: https://www.imdb.com/title/tt32141377
@@ -700,7 +700,7 @@
   date: 2027-03-26 00:00:00 -0000
   studio: Nintendo
   platform: Theaters
-  notes:
+  notes: null
   link: https://www.imdb.com/title/tt29873948
 
 - title: "Star Wars: Starfighter"
@@ -712,8 +712,8 @@
   link: https://www.imdb.com/title/tt28069611
 
 - title: "Spider-Man: Beyond the Spider-Verse"
-  release: Jun 4 2023
-  date: 2023-06-04 00:00:00 -0000
+  release: Jun 4 2027
+  date: 2027-06-04 00:00:00 -0000
   studio: Marvel
   platform: Theaters
   notes: Sony Pictures Animation
