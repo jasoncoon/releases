@@ -560,12 +560,12 @@
   link: https://www.imdb.com/title/tt9603208
 
 - title: 28 Years Later
-  release: Jun 29 2025
+  release: Jun 20 2025
   date: 2025-06-29 00:00:00 -0000
   studio:
   platform: Theaters
   notes: Danny Boyle & Alex Garland
-  link: https://www.imdb.com/title/tt13623126
+  link: https://www.imdb.com/title/tt10548174
 
 - title: Ironheart
   release: Jun 24 2025
@@ -607,7 +607,23 @@
   notes: Animated Series
   link: https://www.imdb.com/title/tt16027014
 
-- title: Avatar 3
+- title: "Predator: Badlands"
+  release: Nov 7 2025
+  date: 2025-11-07 00:00:00 -0000
+  studio:
+  platform: Theaters
+  notes: Dan Trachtenberg
+  link: https://www.imdb.com/title/tt31227572
+
+- title: Frankenstein
+  release: Nov 2025
+  date: 2025-11-31 00:00:00 -0000
+  studio:
+  platform: Netflix
+  notes: Guillermo del Toro & Oscar Isaac
+  link: https://www.imdb.com/title/tt1312221
+
+- title: "Avatar: Fire and Ash"
   release: Dec 19 2025
   date: 2025-12-19 00:00:00 -0000
   studio: 20th Century
@@ -638,6 +654,14 @@
   platform: Theaters
   notes: null
   link: https://www.imdb.com/title/tt10300394
+
+- title: "28 Years Later: The Bone Temple"
+  release: Jan 16 2026
+  date: 2026-01-16 00:00:00 -0000
+  studio:
+  platform: Theaters
+  notes: Alex Garland
+  link: https://www.imdb.com/title/tt32141377
 
 - title: Project Hail Mary
   release: May 20 2026
@@ -686,6 +710,14 @@
   platform: Theaters
   notes: Ryan Gosling
   link: https://www.imdb.com/title/tt28069611
+
+- title: "Spider-Man: Beyond the Spider-Verse"
+  release: Jun 4 2023
+  date: 2023-06-04 00:00:00 -0000
+  studio: Marvel
+  platform: Theaters
+  notes: Sony Pictures Animation
+  link: https://www.imdb.com/title/tt16360004
 
 - title: "Avengers: Secret Wars"
   release: Dec 17 2027
