@@ -583,6 +583,22 @@
   notes: James Gunn
   link: https://www.imdb.com/title/tt5950044
 
+- title: "Donkey Kong Bananza"
+  release: Jul 17 2025
+  date: 2025-07-17 00:00:00 -0000
+  studio: Nintendo
+  platform: Switch 2
+  notes: null
+  link: https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2
+
+- title: "Shadow Labyrinth"
+  release: Jul 18 2025
+  date: 2025-07-18 00:00:00 -0000
+  studio: null
+  platform: Switch 2
+  notes: null
+  link: https://www.nintendo.com/us/store/products/shadow-labyrinth-nintendo-switch-2-edition-switch-2
+
 - title: Fantastic Four
   release: Jul 25 2025
   date: 2025-07-25 00:00:00 -0000
@@ -590,6 +606,14 @@
   platform: Theaters
   notes: Phase Six
   link: https://www.imdb.com/title/tt10676052
+
+- title: "Drag x Drive"
+  release: Aug 14 2025
+  date: 2025-08-14 00:00:00 -0000
+  studio: Nintendo
+  platform: Switch 2
+  notes: null
+  link: https://www.nintendo.com/us/store/products/drag-x-drive-switch-2
 
 - title: Marvel Zombies
   release: Oct 3 2025
