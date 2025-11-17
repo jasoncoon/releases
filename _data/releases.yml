@@ -640,12 +640,20 @@
   link: https://www.imdb.com/title/tt31227572
 
 - title: Frankenstein
-  release: Nov 2025
-  date: 2025-11-30 00:00:00 -0000
+  release: Nov 7 2025
+  date: 2025-11-07 00:00:00 -0000
   studio: null
   platform: Netflix
   notes: Guillermo del Toro & Oscar Isaac
   link: https://www.imdb.com/title/tt1312221
+
+- title: "Metroid Prime 4: Beyond"
+  release: Dec 4 2025
+  date: 2025-12-04 00:00:00 -0000
+  studio: Nintendo
+  platform: Switch
+  notes: null
+  link: https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-nintendo-switch-2-edition-switch-2/
 
 - title: "Avatar: Fire and Ash"
   release: Dec 19 2025
