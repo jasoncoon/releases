@@ -663,29 +663,29 @@
   notes: James Cameron
   link: https://www.imdb.com/title/tt1757678
 
-- title: Armor Wars
-  release: "2025"
-  date: 2025-12-31 00:00:00 -0000
-  studio: Marvel
-  platform: Disney+
-  notes: null
-  link: https://www.imdb.com/title/tt13623128
+# - title: Armor Wars
+#   release: "2025"
+#   date: 2025-12-31 00:00:00 -0000
+#   studio: Marvel
+#   platform: Disney+
+#   notes: null
+#   link: https://www.imdb.com/title/tt13623128
 
-- title: Blade
-  release: "2025"
-  date: 2025-12-31 00:00:00 -0000
-  studio: Marvel
-  platform: Theaters
-  notes: null
-  link: https://www.imdb.com/title/tt10671440
+# - title: Blade
+#   release: "2025"
+#   date: 2025-12-31 00:00:00 -0000
+#   studio: Marvel
+#   platform: Theaters
+#   notes: null
+#   link: https://www.imdb.com/title/tt10671440
 
-- title: "Star Wars: Rogue Squadron"
-  release: "2025"
-  date: 2025-12-31 00:00:00 -0000
-  studio: Lucasfilm
-  platform: Theaters
-  notes: null
-  link: https://www.imdb.com/title/tt10300394
+# - title: "Star Wars: Rogue Squadron"
+#   release: "2025"
+#   date: 2025-12-31 00:00:00 -0000
+#   studio: Lucasfilm
+#   platform: Theaters
+#   notes: null
+#   link: https://www.imdb.com/title/tt10300394
 
 - title: "28 Years Later: The Bone Temple"
   release: Jan 16 2026
