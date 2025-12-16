@@ -695,6 +695,14 @@
   notes: Alex Garland
   link: https://www.imdb.com/title/tt32141377
 
+- title: The Super Mario Galaxy Movie
+  release: Apr 3 2026
+  date: 2026-04-03 00:00:00 -0000
+  studio: Nintendo
+  platform: Theaters
+  notes: Illumination
+  link: https://www.imdb.com/title/tt28650488
+
 - title: Project Hail Mary
   release: May 20 2026
   date: 2026-05-20 00:00:00 -0000
@@ -702,6 +710,30 @@
   platform: Theaters
   notes: Andy Weir
   link: https://www.imdb.com/title/tt12042730
+
+- title: "Star Wars: The Mandalorian and Grogu"
+  release: May 22 2026
+  date: 2026-05-22 00:00:00 -0000
+  studio: Lucasfilm
+  platform: Theaters
+  notes: 
+  link: https://www.imdb.com/title/tt30825738
+
+- title: Supergirl
+  release: Jun 26 2026
+  date: 2026-06-26 00:00:00 -0000
+  studio: DC
+  platform: Theaters
+  notes: 
+  link: https://www.imdb.com/title/tt8814476
+
+- title: "Spider-Man: Brand New Day"
+  release: Jul 31 2026
+  date: 2026-07-31 00:00:00 -0000
+  studio: Marvel
+  platform: Theaters
+  notes: 
+  link: https://www.imdb.com/title/tt22084616
 
 - title: "Avengers: Doomsday"
   release: Dec 18 2026
