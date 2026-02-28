@@ -696,16 +696,16 @@
   link: https://www.imdb.com/title/tt32141377
 
 - title: The Super Mario Galaxy Movie
-  release: Apr 3 2026
-  date: 2026-04-03 00:00:00 -0000
+  release: Apr 1 2026
+  date: 2026-04-01 00:00:00 -0000
   studio: Nintendo
   platform: Theaters
   notes: Illumination
   link: https://www.imdb.com/title/tt28650488
 
 - title: Project Hail Mary
-  release: May 20 2026
-  date: 2026-05-20 00:00:00 -0000
+  release: Mar 20 2026
+  date: 2026-03-20 00:00:00 -0000
   studio: null
   platform: Theaters
   notes: Andy Weir
@@ -716,7 +716,7 @@
   date: 2026-05-22 00:00:00 -0000
   studio: Lucasfilm
   platform: Theaters
-  notes: 
+  notes:
   link: https://www.imdb.com/title/tt30825738
 
 - title: Supergirl
@@ -724,13 +724,13 @@
   date: 2026-06-26 00:00:00 -0000
   studio: DC
   platform: Theaters
-  notes: 
+  notes:
   link: https://www.imdb.com/title/tt8814476
 
 - title: "The Odyssey"
   release: Jul 17 2026
   date: 2026-07-17 00:00:00 -0000
-  studio: 
+  studio:
   platform: Theaters
   notes: Christopher Nolan
   link: https://www.imdb.com/title/tt33764258
@@ -740,7 +740,7 @@
   date: 2026-07-31 00:00:00 -0000
   studio: Marvel
   platform: Theaters
-  notes: 
+  notes:
   link: https://www.imdb.com/title/tt22084616
 
 - title: "Avengers: Doomsday"
@@ -768,8 +768,8 @@
   link: https://www.imdb.com/title/tt35514120
 
 - title: The Legend of Zelda
-  release: Mar 26 2027
-  date: 2027-03-26 00:00:00 -0000
+  release: May 7 2027
+  date: 2027-05-07 00:00:00 -0000
   studio: Nintendo
   platform: Theaters
   notes: null
@@ -784,8 +784,8 @@
   link: https://www.imdb.com/title/tt28069611
 
 - title: "Spider-Man: Beyond the Spider-Verse"
-  release: Jun 4 2027
-  date: 2027-06-04 00:00:00 -0000
+  release: Jun 20 2027
+  date: 2027-06-20 00:00:00 -0000
   studio: Marvel
   platform: Theaters
   notes: Sony Pictures Animation
