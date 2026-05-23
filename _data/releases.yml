@@ -583,7 +583,7 @@
   notes: James Gunn
   link: https://www.imdb.com/title/tt5950044
 
-- title: "Donkey Kong Bananza"
+- title: Donkey Kong Bananza
   release: Jul 17 2025
   date: 2025-07-17 00:00:00 -0000
   studio: Nintendo
@@ -591,13 +591,14 @@
   notes: null
   link: https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2
 
-- title: "Shadow Labyrinth"
+- title: Shadow Labyrinth
   release: Jul 18 2025
   date: 2025-07-18 00:00:00 -0000
   studio: null
   platform: Switch 2
   notes: null
-  link: https://www.nintendo.com/us/store/products/shadow-labyrinth-nintendo-switch-2-edition-switch-2
+  link: >-
+    https://www.nintendo.com/us/store/products/shadow-labyrinth-nintendo-switch-2-edition-switch-2
 
 - title: Fantastic Four
   release: Jul 25 2025
@@ -607,7 +608,7 @@
   notes: Phase Six
   link: https://www.imdb.com/title/tt10676052
 
-- title: "Drag x Drive"
+- title: Drag x Drive
   release: Aug 14 2025
   date: 2025-08-14 00:00:00 -0000
   studio: Nintendo
@@ -631,14 +632,6 @@
   notes: null
   link: https://www.imdb.com/title/tt6604188
 
-- title: "Predator: Badlands"
-  release: Nov 7 2025
-  date: 2025-11-07 00:00:00 -0000
-  studio: null
-  platform: Theaters
-  notes: Dan Trachtenberg
-  link: https://www.imdb.com/title/tt31227572
-
 - title: Frankenstein
   release: Nov 7 2025
   date: 2025-11-07 00:00:00 -0000
@@ -647,13 +640,22 @@
   notes: Guillermo del Toro & Oscar Isaac
   link: https://www.imdb.com/title/tt1312221
 
+- title: "Predator: Badlands"
+  release: Nov 7 2025
+  date: 2025-11-07 00:00:00 -0000
+  studio: null
+  platform: Theaters
+  notes: Dan Trachtenberg
+  link: https://www.imdb.com/title/tt31227572
+
 - title: "Metroid Prime 4: Beyond"
   release: Dec 4 2025
   date: 2025-12-04 00:00:00 -0000
   studio: Nintendo
   platform: Switch
   notes: null
-  link: https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-nintendo-switch-2-edition-switch-2/
+  link: >-
+    https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-nintendo-switch-2-edition-switch-2/
 
 - title: "Avatar: Fire and Ash"
   release: Dec 19 2025
@@ -663,30 +665,6 @@
   notes: James Cameron
   link: https://www.imdb.com/title/tt1757678
 
-# - title: Armor Wars
-#   release: "2025"
-#   date: 2025-12-31 00:00:00 -0000
-#   studio: Marvel
-#   platform: Disney+
-#   notes: null
-#   link: https://www.imdb.com/title/tt13623128
-
-# - title: Blade
-#   release: "2025"
-#   date: 2025-12-31 00:00:00 -0000
-#   studio: Marvel
-#   platform: Theaters
-#   notes: null
-#   link: https://www.imdb.com/title/tt10671440
-
-# - title: "Star Wars: Rogue Squadron"
-#   release: "2025"
-#   date: 2025-12-31 00:00:00 -0000
-#   studio: Lucasfilm
-#   platform: Theaters
-#   notes: null
-#   link: https://www.imdb.com/title/tt10300394
-
 - title: "28 Years Later: The Bone Temple"
   release: Jan 16 2026
   date: 2026-01-16 00:00:00 -0000
@@ -694,14 +672,6 @@
   platform: Theaters
   notes: Alex Garland
   link: https://www.imdb.com/title/tt32141377
-
-- title: The Super Mario Galaxy Movie
-  release: Apr 1 2026
-  date: 2026-04-01 00:00:00 -0000
-  studio: Nintendo
-  platform: Theaters
-  notes: Illumination
-  link: https://www.imdb.com/title/tt28650488
 
 - title: Project Hail Mary
   release: Mar 20 2026
@@ -711,12 +681,20 @@
   notes: Andy Weir
   link: https://www.imdb.com/title/tt12042730
 
-- title: "Mortal Kombat II"
+- title: The Super Mario Galaxy Movie
+  release: Apr 1 2026
+  date: 2026-04-01 00:00:00 -0000
+  studio: Nintendo
+  platform: Theaters
+  notes: Illumination
+  link: https://www.imdb.com/title/tt28650488
+
+- title: Mortal Kombat II
   release: May 8 2026
   date: 2026-05-08 00:00:00 -0000
-  studio:
+  studio: null
   platform: Theaters
-  notes:
+  notes: null
   link: https://www.imdb.com/title/tt17490712
 
 - title: "Star Wars: The Mandalorian and Grogu"
@@ -724,10 +702,10 @@
   date: 2026-05-22 00:00:00 -0000
   studio: Lucasfilm
   platform: Theaters
-  notes:
+  notes: null
   link: https://www.imdb.com/title/tt30825738
 
-- title: "Spider-Noir"
+- title: Spider-Noir
   release: May 27 2026
   date: 2026-05-27 00:00:00 -0000
   studio: Marvel
@@ -738,15 +716,15 @@
 - title: Masters of the Universe
   release: Jun 5 2026
   date: 2026-06-05 00:00:00 -0000
-  studio:
+  studio: null
   platform: Theaters
-  notes:
+  notes: null
   link: https://www.imdb.com/title/tt0427340
 
 - title: Disclosure Day
   release: Jun 12 2026
   date: 2026-06-12 00:00:00 -0000
-  studio:
+  studio: null
   platform: Theaters
   notes: Steven Spielberg
   link: https://www.imdb.com/title/tt15047880
@@ -754,9 +732,9 @@
 - title: "House of the Dragon: Season 3"
   release: Jun 21 2026
   date: 2026-06-21 00:00:00 -0000
-  studio:
+  studio: null
   platform: TV Series
-  notes:
+  notes: null
   link: https://www.imdb.com/title/tt11198330
 
 - title: Supergirl
@@ -764,13 +742,13 @@
   date: 2026-06-26 00:00:00 -0000
   studio: DC
   platform: Theaters
-  notes:
+  notes: null
   link: https://www.imdb.com/title/tt8814476
 
-- title: "The Odyssey"
+- title: The Odyssey
   release: Jul 17 2026
   date: 2026-07-17 00:00:00 -0000
-  studio:
+  studio: null
   platform: Theaters
   notes: Christopher Nolan
   link: https://www.imdb.com/title/tt33764258
@@ -780,7 +758,7 @@
   date: 2026-07-31 00:00:00 -0000
   studio: Marvel
   platform: Theaters
-  notes:
+  notes: null
   link: https://www.imdb.com/title/tt22084616
 
 - title: Lanterns
@@ -788,7 +766,7 @@
   date: 2026-08-16 00:00:00 -0000
   studio: DC
   platform: TV Series
-  notes:
+  notes: null
   link: https://www.imdb.com/title/tt26545992
 
 - title: "Avengers: Doomsday"
