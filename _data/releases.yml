@@ -711,6 +711,14 @@
   notes: Andy Weir
   link: https://www.imdb.com/title/tt12042730
 
+- title: "Mortal Kombat II"
+  release: May 8 2026
+  date: 2026-05-08 00:00:00 -0000
+  studio: 
+  platform: Theaters
+  notes:
+  link: https://www.imdb.com/title/tt17490712
+
 - title: "Star Wars: The Mandalorian and Grogu"
   release: May 22 2026
   date: 2026-05-22 00:00:00 -0000
@@ -718,6 +726,38 @@
   platform: Theaters
   notes:
   link: https://www.imdb.com/title/tt30825738
+
+- title: "Spider-Noir"
+  release: May 27 2026
+  date: 2026-05-27 00:00:00 -0000
+  studio: Marvel
+  platform: TV Series
+  notes: Amazon Prime
+  link: https://www.imdb.com/title/tt30460310
+
+- title: Masters of the Universe
+  release: Jun 5 2026
+  date: 2026-06-05 00:00:00 -0000
+  studio:
+  platform: Theaters
+  notes:
+  link: https://www.imdb.com/title/tt0427340
+
+- title: Disclosure Day
+  release: Jun 12 2026
+  date: 2026-06-12 00:00:00 -0000
+  studio:
+  platform: Theaters
+  notes: Steven Spielberg
+  link: https://www.imdb.com/title/tt15047880
+
+- title: House of the Dragon: Season 3
+  release: Jun 21 2026
+  date: 2026-06-21 00:00:00 -0000
+  studio:
+  platform: TV Series
+  notes:
+  link: https://www.imdb.com/title/tt11198330
 
 - title: Supergirl
   release: Jun 26 2026
@@ -742,6 +782,14 @@
   platform: Theaters
   notes:
   link: https://www.imdb.com/title/tt22084616
+
+- title: Lanterns
+  release: Aug 16 2026
+  date: 2026-08-16 00:00:00 -0000
+  studio: DC
+  platform: TV Series
+  notes:
+  link: https://www.imdb.com/title/tt26545992
 
 - title: "Avengers: Doomsday"
   release: Dec 18 2026
