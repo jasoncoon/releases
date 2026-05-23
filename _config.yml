@@ -3,14 +3,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   Upcoming movie & series releases.
 baseurl: "/releases" # the subpath of your site, e.g. /blog
 url: "https://jasoncoon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-author: by Jason Coon
-twitter_username: jasoncoon_
-github_username: jasoncoon
+author:
+  name: Jason Coon
 
 # Build settings
-theme: jekyll-theme-midnight
-plugins:
-  - jekyll-feed
+theme: minima
+minima:
+  skin: dark
+  hide_site_feed_link: true
+  social_links:
+    - { url: "https://github.com/jasoncoon/releases", icon: github, title: GitHub }
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
