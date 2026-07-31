@@ -769,6 +769,46 @@
   notes: null
   link: https://www.imdb.com/title/tt26545992
 
+- title: "Fire Emblem: Fortune's Weave"
+  release: Sep 17 2026
+  date: 2026-09-17 00:00:00 -0000
+  studio: Nintendo
+  platform: Switch 2
+  notes: null
+  link: https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-switch-2/
+
+- title: VisionQuest
+  release: Oct 14 2026
+  date: 2026-10-14 00:00:00 -0000
+  studio: Marvel
+  platform: Disney+
+  notes: WandaVision / Agatha All Along trilogy finale
+  link: https://www.imdb.com/title/tt23112594
+
+- title: Clayface
+  release: Oct 23 2026
+  date: 2026-10-23 00:00:00 -0000
+  studio: DC
+  platform: Theaters
+  notes: Mike Flanagan
+  link: https://www.imdb.com/title/tt34890576
+
+- title: Wildwood
+  release: Oct 23 2026
+  date: 2026-10-23 00:00:00 -0000
+  studio: Laika
+  platform: Theaters
+  notes: Travis Knight
+  link: https://www.imdb.com/title/tt2056785
+
+- title: Hexed
+  release: Nov 25 2026
+  date: 2026-11-25 00:00:00 -0000
+  studio: Disney
+  platform: Theaters
+  notes: Walt Disney Animation Studios
+  link: https://www.imdb.com/title/tt38077943
+
 - title: "Avengers: Doomsday"
   release: Dec 18 2026
   date: 2026-12-18 00:00:00 -0000
@@ -792,6 +832,14 @@
   platform: Theaters
   notes: Robert Eggers
   link: https://www.imdb.com/title/tt35514120
+
+- title: Gatto
+  release: Mar 5 2027
+  date: 2027-03-05 00:00:00 -0000
+  studio: Pixar
+  platform: Theaters
+  notes: Enrico Casarosa
+  link: https://www.imdb.com/title/tt26443610
 
 - title: The Legend of Zelda
   release: May 7 2027
@@ -817,6 +865,14 @@
   notes: Sony Pictures Animation
   link: https://www.imdb.com/title/tt16360004
 
+- title: "Superman: Man of Tomorrow"
+  release: Jul 9 2027
+  date: 2027-07-09 00:00:00 -0000
+  studio: DC
+  platform: Theaters
+  notes: James Gunn
+  link: https://www.imdb.com/title/tt37833661
+
 - title: "Avengers: Secret Wars"
   release: Dec 17 2027
   date: 2027-12-17 00:00:00 -0000
@@ -824,6 +880,38 @@
   platform: Theaters
   notes: Phase Six
   link: https://www.imdb.com/title/tt21361444
+
+- title: "The Batman: Part II"
+  release: Feb 18 2028
+  date: 2028-02-18 00:00:00 -0000
+  studio: DC
+  platform: Theaters
+  notes: Matt Reeves
+  link: https://www.imdb.com/title/tt19850008
+
+- title: Incredibles 3
+  release: Jun 16 2028
+  date: 2028-06-16 00:00:00 -0000
+  studio: Pixar
+  platform: Theaters
+  notes: null
+  link: https://www.imdb.com/title/tt33088418
+
+- title: Dynamic Duo
+  release: Jun 30 2028
+  date: 2028-06-30 00:00:00 -0000
+  studio: DC
+  platform: Theaters
+  notes: Animated, Dick Grayson & Jason Todd
+  link: https://www.imdb.com/title/tt33549695
+
+- title: Black Panther 3
+  release: Dec 15 2028
+  date: 2028-12-15 00:00:00 -0000
+  studio: Marvel
+  platform: Theaters
+  notes: Ryan Coogler
+  link: https://www.imdb.com/title/tt37884905
 
 - title: Avatar 4
   release: Dec 21 2029
