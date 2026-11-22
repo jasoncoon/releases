@@ -1,0 +1,32 @@
+# What `npm run discover` watches for new upcoming releases on TMDB.
+#
+# companies: matched by exact name against TMDB production companies
+#   (all exact matches are used; add `id: 123` to pin a specific one).
+#   `studio` is what goes in the Studio column for matches.
+# directors: people whose upcoming movies *they direct* should be suggested
+#   (only Director credits count, not producer/writer; a name, or
+#   `{ name: ..., id: 123 }` to pin a specific person).
+#
+# Anything you decline is remembered in tmdb-ignore.yml.
+
+companies:
+  - { name: Marvel Studios, studio: Marvel }
+  - { name: Marvel Animation, studio: Marvel }
+  - { name: Marvel Television, studio: Marvel }
+  - { name: Lucasfilm Ltd., studio: Lucasfilm }
+  - { name: Lucasfilm Animation, studio: Lucasfilm }
+  - { name: DC Studios, studio: DC }
+  - { name: DC Entertainment, studio: DC }
+  - { name: DC, id: 429, studio: DC } # DC Comics, listed on TMDB as "DC"
+  - { name: Pixar, studio: Pixar }
+  - { name: Walt Disney Animation Studios, studio: Disney }
+  - { name: Nintendo, studio: Nintendo }
+
+directors:
+  - Denis Villeneuve
+  - Christopher Nolan
+  - James Cameron
+  - James Gunn
+  - Matt Reeves
+  - Ryan Coogler
+  - Robert Eggers

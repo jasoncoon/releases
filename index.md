@@ -9,4 +9,4 @@ title: All Releases
 
 {% assign items = site.data.releases %}
 
-{% include release-list.md %}
+{% include release-list.html %}

@@ -1,0 +1,2 @@
+{%- assign r = include.release -%}
+<tr data-date="{{ include.day }}"><td>{% if r.link %}<a href="{{ r.link | escape }}">{{ r.title | escape }}</a>{% else %}{{ r.title | escape }}{% endif %}</td><td>{{ r.date | date: "%b %-d %Y" }}</td><td>{{ r.platform | escape }}</td><td>{{ r.studio | escape }}</td><td>{{ r.notes | escape }}</td></tr>

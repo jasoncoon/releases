@@ -32,3 +32,8 @@ minima:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+exclude:
+  - scripts/
+  - package.json
+  - package-lock.json

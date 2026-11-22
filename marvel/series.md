@@ -10,4 +10,4 @@ title: Marvel Series
 {% assign items = site.data.releases | where_exp: "item", "item.platform != 'Theaters'" %}
 {% assign items = items | where_exp: "item", "item.studio == 'Marvel'" %}
 
-{% include release-list.md %}
+{% include release-list.html %}

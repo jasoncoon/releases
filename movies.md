@@ -9,4 +9,4 @@ title: All Movies
 
 {% assign items = site.data.releases | where:"platform","Theaters" %}
 
-{% include release-list.md %}
+{% include release-list.html %}

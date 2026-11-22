@@ -9,4 +9,4 @@ title: DC Releases
 
 {% assign items = site.data.releases | where_exp: "item", "item.studio == 'DC'" %}
 
-{% include release-list.md %}
+{% include release-list.html %}

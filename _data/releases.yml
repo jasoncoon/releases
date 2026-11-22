@@ -1,922 +1,752 @@
 - title: The Sandman
-  release: Aug 5 2022
-  date: 2022-08-05 00:00:00 -0000
+  date: 2022-08-05
   studio: DC
   platform: Netflix
   notes: Neil Gaiman
   link: https://www.imdb.com/title/tt1751634
 
 - title: I Am Groot Season 1
-  release: Aug 10 2022
-  date: 2022-08-10 00:00:00 -0000
+  date: 2022-08-10
   studio: Marvel
   platform: Disney+
   notes: Animated Shorts
   link: https://www.imdb.com/title/tt13623148
 
 - title: She-Hulk
-  release: Aug 17 2022
-  date: 2022-08-17 00:00:00 -0000
+  date: 2022-08-17
   studio: Marvel
   platform: Disney+
-  notes: null
   link: https://www.imdb.com/title/tt10857160
 
 - title: Andor
-  release: Aug 31 2022
-  date: 2022-08-31 00:00:00 -0000
+  date: 2022-08-31
   studio: Lucasfilm
   platform: Disney+
-  notes: null
   link: https://www.imdb.com/title/tt9253284
 
 - title: I Am Groot Season 2
-  release: Sep 6 2023
-  date: 2022-09-06 00:00:00 -0000
+  date: 2022-09-06
   studio: Marvel
   platform: Disney+
   notes: Animated Shorts
   link: https://www.imdb.com/title/tt13623148
 
 - title: Werewolf by Night
-  release: Oct 7 2022
-  date: 2022-10-07 00:00:00 -0000
+  date: 2022-10-07
   studio: Marvel
   platform: Disney+
-  notes: null
   link: https://www.imdb.com/title/tt15318872
 
 - title: Black Adam
-  release: Oct 21 2022
-  date: 2022-10-21 00:00:00 -0000
+  date: 2022-10-21
   studio: DC
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt6443346
 
 - title: "Black Panther: Wakanda Forever"
-  release: Nov 11 2022
-  date: 2022-11-11 00:00:00 -0000
+  date: 2022-11-11
   studio: Marvel
   platform: Theaters
   notes: Phase Four
   link: https://www.imdb.com/title/tt9114286
 
 - title: Guardians of the Galaxy Holiday Special
-  release: Nov 25 2022
-  date: 2022-11-25 00:00:00 -0000
+  date: 2022-11-25
   studio: Marvel
   platform: Disney+
-  notes: null
   link: https://www.imdb.com/title/tt13623136
 
 - title: "Avatar: The Way of Water"
-  release: Dec 16 2022
-  date: 2022-12-16 00:00:00 -0000
+  date: 2022-12-16
   studio: 20th Century
   platform: Theaters
   notes: James Cameron
   link: https://www.imdb.com/title/tt1630029
 
 - title: "Star Wars: The Bad Batch Season 2"
-  release: Jan 4 2023
-  date: 2023-01-04 00:00:00 -0000
+  date: 2023-01-04
   studio: Lucasfilm
   platform: Disney+
-  notes: null
   link: https://www.imdb.com/title/tt12708542/
 
 - title: The Last of Us
-  release: Jan 15 2023
-  date: 2023-01-15 00:00:00 -0000
+  date: 2023-01-15
   studio: HBO
   platform: HBO Max
-  notes: null
   link: https://www.imdb.com/title/tt3581920
 
 - title: "Ant-Man and the Wasp: Quantumania"
-  release: Feb 17 2023
-  date: 2023-02-17 00:00:00 -0000
+  date: 2023-02-17
   studio: Marvel
   platform: Theaters
   notes: Phase Five
   link: https://www.imdb.com/title/tt10954600
 
 - title: The Mandalorian Season 3
-  release: Mar 1 2023
-  date: 2023-03-01 00:00:00 -0000
+  date: 2023-03-01
   studio: Lucasfilm
   platform: Disney+
-  notes: null
   link: https://www.imdb.com/title/tt8111088
 
 - title: Shazam! Fury of the Gods
-  release: Mar 17 2023
-  date: 2023-03-17 00:00:00 -0000
+  date: 2023-03-17
   studio: DC
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt10151854
 
 - title: "Dungeons & Dragons: Honor Among Thieves"
-  release: Mar 24 2023
-  date: 2023-03-24 00:00:00 -0000
+  date: 2023-03-24
   studio: Paramount
   platform: Theaters
   notes: Chris Pine
   link: https://www.imdb.com/title/tt2906216
 
 - title: "John Wick: Chapter 4"
-  release: Mar 24 2023
-  date: 2023-03-24 00:00:00 -0000
+  date: 2023-03-24
   studio: Lionsgate
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt10366206
 
 - title: The Super Mario Bros. Movie
-  release: Apr 7 2023
-  date: 2023-04-07 00:00:00 -0000
+  date: 2023-04-07
   studio: Nintendo
   platform: Theaters
   notes: Illumination
   link: https://www.imdb.com/title/tt6718170
 
 - title: Guardians of the Galaxy Vol. 3
-  release: May 5 2023
-  date: 2023-05-05 00:00:00 -0000
+  date: 2023-05-05
   studio: Marvel
   platform: Theaters
   notes: Phase Five
   link: https://www.imdb.com/title/tt6791350
 
 - title: "The Legend of Zelda: Tears of the Kingdom"
-  release: May 12 2023
-  date: 2023-05-12 00:00:00 -0000
+  date: 2023-05-12
   studio: Nintendo
   platform: Switch
-  notes: null
   link: https://www.zelda.com/tears-of-the-kingdom/
 
 - title: "Spider-Man: Across the Spider-Verse"
-  release: Jun 2 2023
-  date: 2023-06-02 00:00:00 -0000
+  date: 2023-06-02
   studio: Marvel
   platform: Theaters
   notes: Sony Pictures Animation
   link: https://www.imdb.com/title/tt936272022
 
 - title: Elemental
-  release: Jun 16 2023
-  date: 2023-06-16 00:00:00 -0000
+  date: 2023-06-16
   studio: Disney
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt15789038
 
 - title: The Flash
-  release: Jun 16 2023
-  date: 2023-06-16 00:00:00 -0000
+  date: 2023-06-16
   studio: DC
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt0439572
 
 - title: Secret Invasion
-  release: Jun 21 2023
-  date: 2023-06-21 00:00:00 -0000
+  date: 2023-06-21
   studio: Marvel
   platform: Disney+
-  notes: null
   link: https://www.imdb.com/title/tt13157618
 
 - title: Indiana Jones and the Dial of Destiny
-  release: Jun 30 2023
-  date: 2023-06-30 00:00:00 -0000
+  date: 2023-06-30
   studio: Lucasfilm
   platform: Theaters
   notes: James Mangold
   link: https://www.imdb.com/title/tt1462764
 
 - title: "Mission: Impossible - Dead Reckoning, Part One"
-  release: Jul 14 2023
-  date: 2023-07-14 00:00:00 -0000
+  date: 2023-07-14
   studio: Paramount
   platform: Theaters
   notes: Christopher McQuarrie
   link: https://www.imdb.com/title/tt9603212
 
 - title: Oppenheimer
-  release: Jul 21 2023
-  date: 2023-07-21 00:00:00 -0000
+  date: 2023-07-21
   studio: Syncopy
   platform: Theaters
   notes: Christopher Nolan
   link: https://www.imdb.com/title/tt15398776
 
 - title: What If…?
-  release: Aug 11 2023
-  date: 2023-08-11 00:00:00 -0000
+  date: 2023-08-11
   studio: Marvel
   platform: Disney+
   notes: Animated Series
   link: https://www.imdb.com/title/tt10168312
 
 - title: Blue Beetle
-  release: Aug 18 2023
-  date: 2023-08-18 00:00:00 -0000
+  date: 2023-08-18
   studio: DC
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt9362930
 
 - title: Ahsoka
-  release: Aug 22 2023
-  date: 2023-08-22 00:00:00 -0000
+  date: 2023-08-22
   studio: Lucasfilm
   platform: Disney+
-  notes: null
   link: https://www.imdb.com/title/tt13622776
 
 - title: The Creator
-  release: Sep 29 2023
-  date: 2023-09-29 00:00:00 -0000
+  date: 2023-09-29
   studio: 20th Century
   platform: Theaters
   notes: Gareth Edwards
   link: https://www.imdb.com/title/tt11858890
 
 - title: Loki Season 2
-  release: Oct 5 2023
-  date: 2023-10-05 00:00:00 -0000
+  date: 2023-10-05
   studio: Marvel
   platform: Disney+
-  notes: null
   link: https://www.imdb.com/title/tt9140554
 
 - title: The Marvels
-  release: Nov 10 2023
-  date: 2023-11-10 00:00:00 -0000
+  date: 2023-11-10
   studio: Marvel
   platform: Theaters
   notes: Phase Five
   link: https://www.imdb.com/title/tt10676048
 
 - title: Aquaman and The Lost Kingdom
-  release: Dec 22 2023
-  date: 2023-12-22 00:00:00 -0000
+  date: 2023-12-22
   studio: DC
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt9663764
 
 - title: What If…? Season 2
-  release: Dec 22 2023
-  date: 2023-12-22 00:00:00 -0000
+  date: 2023-12-22
   studio: Marvel
   platform: Disney+
   notes: Animated Series
   link: https://www.imdb.com/title/tt10168312
 
 - title: Echo
-  release: Jan 9 2024
-  date: 2024-01-09 00:00:00 -0000
+  date: 2024-01-09
   studio: Marvel
   platform: Disney+
-  notes: null
   link: https://www.imdb.com/title/tt13966962
 
 - title: Madame Web
-  release: Feb 14 2024
-  date: 2024-02-14 00:00:00 -0000
+  date: 2024-02-14
   studio: Marvel
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt11057302
 
 - title: "Avatar: The Last Airbender"
-  release: Feb 22 2024
-  date: 2024-02-22 00:00:00 -0000
-  studio: null
+  date: 2024-02-22
   platform: Netflix
-  notes: null
   link: https://www.imdb.com/title/tt9018736
 
 - title: "Dune: Part Two"
-  release: Mar 1 2024
-  date: 2024-03-01 00:00:00 -0000
+  date: 2024-03-01
   studio: Legendary
   platform: Theaters
   notes: Denis Villeneuve
   link: https://www.imdb.com/title/tt15239678
 
 - title: Kung Fu Panda 4
-  release: Mar 8 2024
-  date: 2024-03-08 00:00:00 -0000
-  studio: null
+  date: 2024-03-08
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt21692408
 
 - title: X-Men '97
-  release: Mar 20 2024
-  date: 2024-03-20 00:00:07 -0000
+  date: 2024-03-20
   studio: Marvel
   platform: Disney+
   notes: Animated Series
   link: https://www.imdb.com/title/tt16026746
 
 - title: 3 Body Problem
-  release: Mar 21 2024
-  date: 2024-03-21 00:00:00 -0000
-  studio: null
+  date: 2024-03-21
   platform: Netflix
-  notes: null
   link: https://www.imdb.com/title/tt13016388
 
 - title: "Ghostbusters: Frozen Empire"
-  release: Mar 22 2024
-  date: 2024-03-22 00:00:00 -0000
-  studio: null
+  date: 2024-03-22
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt21235248
 
 - title: "The Spider Within: A Spider-Verse Story"
-  release: Mar 27 2024
-  date: 2024-03-27 00:00:00 -0000
+  date: 2024-03-27
   studio: Sony
   platform: YouTube
   notes: youtube.com/watch?v=AFPLRIdn1pk
   link: https://www.imdb.com/title/tt27369002
 
 - title: "Godzilla x Kong: The New Empire"
-  release: Mar 29 2024
-  date: 2024-03-29 00:00:00 -0000
-  studio: null
+  date: 2024-03-29
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt14539740
 
 - title: Fallout
-  release: Apr 11, 2024
-  date: 2024-04-11 00:00:00 -0000
+  date: 2024-04-11
   studio: Bethesda Game Studios
   platform: Amazon
   notes: TV Series
   link: https://www.imdb.com/title/tt12637874
 
 - title: Kingdom of the Planet of the Apes
-  release: May 10 2024
-  date: 2024-05-10 00:00:00 -0000
+  date: 2024-05-10
   studio: 20th Century
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt11389872/
 
 - title: "Furiosa: A Mad Max Saga"
-  release: May 24 2024
-  date: 2024-05-24 00:00:00 -0000
-  studio: null
+  date: 2024-05-24
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt12037194
 
 - title: The Acolyte
-  release: Jun 4 2024
-  date: 2024-06-04 00:00:00 -0000
+  date: 2024-06-04
   studio: Lucasfilm
   platform: Disney+
-  notes: null
   link: https://www.imdb.com/title/tt12262202
 
 - title: "A Quiet Place: Day One"
-  release: Jun 28 2024
-  date: 2024-06-28 00:00:00 -0000
-  studio: null
+  date: 2024-06-28
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt13433802
 
 - title: Deadpool & Wolverine
-  release: Jul 26 2024
-  date: 2024-07-26 00:00:00 -0000
+  date: 2024-07-26
   studio: Marvel
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt6263850
 
 - title: Borderlands
-  release: Aug 9 2024
-  date: 2024-08-09 00:00:00 -0000
-  studio: null
+  date: 2024-08-09
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt4978420
 
 - title: "Alien: Romulus"
-  release: Aug 16 2024
-  date: 2024-08-16 00:00:00 -0000
-  studio: null
+  date: 2024-08-16
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt18412256
 
 - title: Agatha All Along
-  release: Sep 18 2024
-  date: 2024-09-18 00:00:00 -0000
+  date: 2024-09-18
   studio: Marvel
   platform: Disney+
-  notes: null
   link: https://www.imdb.com/title/tt15571732
 
 - title: "The Legend of Zelda: Echoes of Wisdom"
-  release: Sep 26 2024
-  date: 2024-09-26 00:00:00 -0000
+  date: 2024-09-26
   studio: Nintendo
   platform: Switch
-  notes: null
-  link: >-
-    https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch
+  link: https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch
 
 - title: The Wild Robot
-  release: Sep 27 2024
-  date: 2024-09-27 00:00:00 -0000
+  date: 2024-09-27
   studio: DreamWorks
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt29623480
 
 - title: Arcane Season 2
-  release: Nov 9 2024
-  date: 2024-11-09 00:00:00 -0000
-  studio: null
+  date: 2024-11-09
   platform: Netflix
   notes: Animated Series
   link: https://www.imdb.com/title/tt11126994
 
 - title: Silo Season 2
-  release: Nov 15 2024
-  date: 2024-11-15 00:00:00 -0000
-  studio: null
+  date: 2024-11-15
   platform: Apple
-  notes: null
   link: https://www.imdb.com/title/tt14688458
 
 - title: "Dune: Prophecy"
-  release: Nov 17 2024
-  date: 2024-11-17 00:00:00 -0000
-  studio: null
+  date: 2024-11-17
   platform: Max
-  notes: null
   link: https://www.imdb.com/title/tt10466872
 
 - title: Gladiator II
-  release: Nov 22 2024
-  date: 2024-11-22 00:00:00 -0000
+  date: 2024-11-22
   studio: Ridley Scott
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt9218128
 
 - title: "Star Wars: Skeleton Crew"
-  release: Dec 3 2024
-  date: 2024-12-03 00:00:05 -0000
+  date: 2024-12-03
   studio: Lucasfilm
   platform: Disney+
-  notes: null
   link: https://www.imdb.com/title/tt20600980
 
 - title: What If…? Season 3
-  release: Dec 22 2024
-  date: 2024-12-22 00:00:00 -0000
+  date: 2024-12-22
   studio: Marvel
   platform: Disney+
   notes: Animated Series
   link: https://www.imdb.com/title/tt10168312
 
 - title: Your Friendly Neighborhood Spider-Man
-  release: Jan 29 2025
-  date: 2025-01-29 00:00:00 -0000
+  date: 2025-01-29
   studio: Marvel
   platform: Disney+
   notes: Animated Series
   link: https://www.imdb.com/title/tt16027074
 
 - title: "Captain America: Brave New World"
-  release: Feb 14 2025
-  date: 2025-02-14 00:00:00 -0000
+  date: 2025-02-14
   studio: Marvel
   platform: Theaters
   notes: Phase Five
   link: https://www.imdb.com/title/tt14513804
 
 - title: "Daredevil: Born Again"
-  release: Mar 4 2025
-  date: 2025-03-04 00:00:00 -0000
+  date: 2025-03-04
   studio: Marvel
   platform: Disney+
-  notes: null
   link: https://www.imdb.com/title/tt20411934
 
 - title: The Wheel of Time Season 2
-  release: Mar 12 2025
-  date: 2025-03-13 00:00:00 -0000
-  studio: null
+  date: 2025-03-13
   platform: Amazon
-  notes: null
   link: https://www.imdb.com/title/tt7462410
 
 - title: The Last of Us
-  release: Apr 20 2025
-  date: 2025-04-20 00:00:00 -0000
+  date: 2025-04-20
   studio: HBO
   platform: HBO Max
-  notes: null
   link: https://www.imdb.com/title/tt3581920
 
 - title: "Star Wars: Andor Season 2"
-  release: Apr 22 2025
-  date: 2025-04-22 00:00:00 -0000
+  date: 2025-04-22
   studio: Lucasfilm
   platform: Disney+
-  notes: null
   link: https://www.imdb.com/title/tt9253284
 
 - title: Thunderbolts
-  release: May 2 2025
-  date: 2025-05-02 00:00:00 -0000
+  date: 2025-05-02
   studio: Marvel
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt20969586
 
 - title: "Mission: Impossible - The Final Reckoning"
-  release: May 23 2025
-  date: 2025-05-23 00:00:00 -0000
-  studio: null
+  date: 2025-05-23
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt9603208
 
 - title: 28 Years Later
-  release: Jun 20 2025
-  date: 2025-06-20 00:00:00 -0000
-  studio: null
+  date: 2025-06-20
   platform: Theaters
   notes: Danny Boyle & Alex Garland
   link: https://www.imdb.com/title/tt10548174
 
 - title: Ironheart
-  release: Jun 24 2025
-  date: 2025-06-24 00:00:00 -0000
+  date: 2025-06-24
   studio: Marvel
   platform: Disney+
-  notes: null
   link: https://www.imdb.com/title/tt13623126
 
 - title: "Superman: Legacy"
-  release: Jul 11 2025
-  date: 2025-07-11 00:00:00 -0000
+  date: 2025-07-11
   studio: DC
   platform: Theaters
   notes: James Gunn
   link: https://www.imdb.com/title/tt5950044
 
 - title: Donkey Kong Bananza
-  release: Jul 17 2025
-  date: 2025-07-17 00:00:00 -0000
+  date: 2025-07-17
   studio: Nintendo
   platform: Switch 2
-  notes: null
   link: https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2
 
 - title: Shadow Labyrinth
-  release: Jul 18 2025
-  date: 2025-07-18 00:00:00 -0000
-  studio: null
+  date: 2025-07-18
   platform: Switch 2
-  notes: null
-  link: >-
-    https://www.nintendo.com/us/store/products/shadow-labyrinth-nintendo-switch-2-edition-switch-2
+  link: https://www.nintendo.com/us/store/products/shadow-labyrinth-nintendo-switch-2-edition-switch-2
 
 - title: Fantastic Four
-  release: Jul 25 2025
-  date: 2025-07-25 00:00:00 -0000
+  date: 2025-07-25
   studio: Marvel
   platform: Theaters
   notes: Phase Six
   link: https://www.imdb.com/title/tt10676052
 
 - title: Drag x Drive
-  release: Aug 14 2025
-  date: 2025-08-14 00:00:00 -0000
+  date: 2025-08-14
   studio: Nintendo
   platform: Switch 2
-  notes: null
   link: https://www.nintendo.com/us/store/products/drag-x-drive-switch-2
 
 - title: Marvel Zombies
-  release: Sep 24 2025
-  date: 2025-09-24 00:00:00 -0000
+  date: 2025-09-24
   studio: Marvel
   platform: Disney+
   notes: Animated Series
   link: https://www.imdb.com/title/tt16027014
 
 - title: "Tron: Ares"
-  release: Oct 10 2025
-  date: 2025-10-10 00:00:00 -0000
+  date: 2025-10-10
   studio: Disney
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt6604188
 
 - title: Frankenstein
-  release: Nov 7 2025
-  date: 2025-11-07 00:00:00 -0000
-  studio: null
+  date: 2025-11-07
   platform: Netflix
   notes: Guillermo del Toro & Oscar Isaac
   link: https://www.imdb.com/title/tt1312221
 
 - title: "Predator: Badlands"
-  release: Nov 7 2025
-  date: 2025-11-07 00:00:00 -0000
-  studio: null
+  date: 2025-11-07
   platform: Theaters
   notes: Dan Trachtenberg
   link: https://www.imdb.com/title/tt31227572
 
 - title: "Metroid Prime 4: Beyond"
-  release: Dec 4 2025
-  date: 2025-12-04 00:00:00 -0000
+  date: 2025-12-04
   studio: Nintendo
   platform: Switch
-  notes: null
-  link: >-
-    https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-nintendo-switch-2-edition-switch-2/
+  link: https://www.nintendo.com/us/store/products/metroid-prime-4-beyond-nintendo-switch-2-edition-switch-2/
 
 - title: "Avatar: Fire and Ash"
-  release: Dec 19 2025
-  date: 2025-12-19 00:00:00 -0000
+  date: 2025-12-19
   studio: 20th Century
   platform: Theaters
   notes: James Cameron
   link: https://www.imdb.com/title/tt1757678
 
 - title: "28 Years Later: The Bone Temple"
-  release: Jan 16 2026
-  date: 2026-01-16 00:00:00 -0000
-  studio: null
+  date: 2026-01-16
   platform: Theaters
   notes: Alex Garland
   link: https://www.imdb.com/title/tt32141377
 
 - title: Project Hail Mary
-  release: Mar 20 2026
-  date: 2026-03-20 00:00:00 -0000
-  studio: null
+  date: 2026-03-20
   platform: Theaters
   notes: Andy Weir
   link: https://www.imdb.com/title/tt12042730
 
 - title: The Super Mario Galaxy Movie
-  release: Apr 1 2026
-  date: 2026-04-01 00:00:00 -0000
+  date: 2026-04-01
   studio: Nintendo
   platform: Theaters
   notes: Illumination
   link: https://www.imdb.com/title/tt28650488
 
 - title: Mortal Kombat II
-  release: May 8 2026
-  date: 2026-05-08 00:00:00 -0000
-  studio: null
+  date: 2026-05-08
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt17490712
 
 - title: "Star Wars: The Mandalorian and Grogu"
-  release: May 22 2026
-  date: 2026-05-22 00:00:00 -0000
+  date: 2026-05-22
   studio: Lucasfilm
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt30825738
 
 - title: Spider-Noir
-  release: May 27 2026
-  date: 2026-05-27 00:00:00 -0000
+  date: 2026-05-27
   studio: Marvel
   platform: TV Series
   notes: Amazon Prime
   link: https://www.imdb.com/title/tt30460310
 
 - title: Masters of the Universe
-  release: Jun 5 2026
-  date: 2026-06-05 00:00:00 -0000
-  studio: null
+  date: 2026-06-05
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt0427340
 
 - title: Disclosure Day
-  release: Jun 12 2026
-  date: 2026-06-12 00:00:00 -0000
-  studio: null
+  date: 2026-06-12
   platform: Theaters
   notes: Steven Spielberg
   link: https://www.imdb.com/title/tt15047880
 
 - title: "House of the Dragon: Season 3"
-  release: Jun 21 2026
-  date: 2026-06-21 00:00:00 -0000
-  studio: null
+  date: 2026-06-21
   platform: TV Series
-  notes: null
   link: https://www.imdb.com/title/tt11198330
 
 - title: Supergirl
-  release: Jun 26 2026
-  date: 2026-06-26 00:00:00 -0000
+  date: 2026-06-26
   studio: DC
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt8814476
 
 - title: The Odyssey
-  release: Jul 17 2026
-  date: 2026-07-17 00:00:00 -0000
-  studio: null
+  date: 2026-07-17
   platform: Theaters
   notes: Christopher Nolan
   link: https://www.imdb.com/title/tt33764258
 
 - title: "Spider-Man: Brand New Day"
-  release: Jul 31 2026
-  date: 2026-07-31 00:00:00 -0000
+  date: 2026-07-31
   studio: Marvel
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt22084616
 
 - title: Lanterns
-  release: Aug 16 2026
-  date: 2026-08-16 00:00:00 -0000
+  date: 2026-08-16
   studio: DC
   platform: TV Series
-  notes: null
   link: https://www.imdb.com/title/tt26545992
 
 - title: "Fire Emblem: Fortune's Weave"
-  release: Sep 17 2026
-  date: 2026-09-17 00:00:00 -0000
+  date: 2026-09-17
   studio: Nintendo
   platform: Switch 2
-  notes: null
   link: https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-switch-2/
 
 - title: VisionQuest
-  release: Oct 14 2026
-  date: 2026-10-14 00:00:00 -0000
+  date: 2026-10-14
   studio: Marvel
   platform: Disney+
   notes: WandaVision / Agatha All Along trilogy finale
   link: https://www.imdb.com/title/tt23112594
 
 - title: Clayface
-  release: Oct 23 2026
-  date: 2026-10-23 00:00:00 -0000
+  date: 2026-10-23
   studio: DC
   platform: Theaters
   notes: Mike Flanagan
   link: https://www.imdb.com/title/tt34890576
 
 - title: Wildwood
-  release: Oct 23 2026
-  date: 2026-10-23 00:00:00 -0000
+  date: 2026-10-23
   studio: Laika
   platform: Theaters
   notes: Travis Knight
   link: https://www.imdb.com/title/tt2056785
 
 - title: Hexed
-  release: Nov 25 2026
-  date: 2026-11-25 00:00:00 -0000
+  date: 2026-11-25
   studio: Disney
   platform: Theaters
   notes: Walt Disney Animation Studios
   link: https://www.imdb.com/title/tt38077943
 
 - title: "Avengers: Doomsday"
-  release: Dec 18 2026
-  date: 2026-12-18 00:00:00 -0000
+  date: 2026-12-18
   studio: Marvel
   platform: Theaters
   notes: Phase Six
   link: https://www.imdb.com/title/tt21357150
 
 - title: "Dune: Messiah"
-  release: Dec 18 2026
-  date: 2026-12-18 00:00:00 -0000
-  studio: null
+  date: 2026-12-18
   platform: Theaters
   notes: Denis Villeneuve
   link: https://www.imdb.com/title/tt31378509
 
 - title: Werwulf
-  release: Dec 25 2026
-  date: 2026-12-25 00:00:00 -0000
-  studio: null
+  date: 2026-12-25
   platform: Theaters
   notes: Robert Eggers
   link: https://www.imdb.com/title/tt35514120
 
+- title: Your Friendly Neighborhood Spider-Man Season 2
+  date: 2027-01-13
+  studio: Marvel
+  platform: Disney+
+  link: https://www.imdb.com/title/tt16027074
+
+- title: Ahsoka Season 2
+  date: 2027-01-19
+  studio: Lucasfilm
+  platform: Disney+
+  link: https://www.imdb.com/title/tt13622776
+
 - title: Gatto
-  release: Mar 5 2027
-  date: 2027-03-05 00:00:00 -0000
+  date: 2027-03-05
   studio: Pixar
   platform: Theaters
   notes: Enrico Casarosa
   link: https://www.imdb.com/title/tt26443610
 
 - title: The Legend of Zelda
-  release: May 7 2027
-  date: 2027-05-07 00:00:00 -0000
+  date: 2027-04-30
   studio: Nintendo
   platform: Theaters
-  notes: null
   link: https://www.imdb.com/title/tt29873948
 
 - title: "Star Wars: Starfighter"
-  release: May 28 2027
-  date: 2027-05-28 00:00:00 -0000
+  date: 2027-05-28
   studio: Lucasfilm
   platform: Theaters
   notes: Ryan Gosling
   link: https://www.imdb.com/title/tt28069611
 
 - title: "Spider-Man: Beyond the Spider-Verse"
-  release: Jun 20 2027
-  date: 2027-06-20 00:00:00 -0000
+  date: 2027-06-18
   studio: Marvel
   platform: Theaters
   notes: Sony Pictures Animation
   link: https://www.imdb.com/title/tt16360004
 
 - title: "Superman: Man of Tomorrow"
-  release: Jul 9 2027
-  date: 2027-07-09 00:00:00 -0000
+  date: 2027-07-09
   studio: DC
   platform: Theaters
   notes: James Gunn
   link: https://www.imdb.com/title/tt37833661
 
 - title: "Avengers: Secret Wars"
-  release: Dec 17 2027
-  date: 2027-12-17 00:00:00 -0000
+  date: 2027-12-17
   studio: Marvel
   platform: Theaters
   notes: Phase Six
   link: https://www.imdb.com/title/tt21361444
 
 - title: "The Batman: Part II"
-  release: Feb 18 2028
-  date: 2028-02-18 00:00:00 -0000
+  date: 2028-02-18
   studio: DC
   platform: Theaters
   notes: Matt Reeves
   link: https://www.imdb.com/title/tt19850008
 
-- title: Incredibles 3
-  release: Jun 16 2028
-  date: 2028-06-16 00:00:00 -0000
+- title: Ghost Market
+  date: 2028-03-10
   studio: Pixar
   platform: Theaters
-  notes: null
+  link: https://www.imdb.com/title/tt40502487
+
+- title: Untitled X-Men Film
+  date: 2028-05-05
+  studio: Marvel
+  platform: Theaters
+  link: https://www.imdb.com/title/tt29347085
+
+- title: Incredibles 3
+  date: 2028-06-16
+  studio: Pixar
+  platform: Theaters
   link: https://www.imdb.com/title/tt33088418
 
+- title: Ghost Rider
+  date: 2028-07-28
+  studio: Marvel
+  platform: Theaters
+  link: https://www.imdb.com/title/tt43711959
+
 - title: Dynamic Duo
-  release: Jun 30 2028
-  date: 2028-06-30 00:00:00 -0000
+  date: 2028-09-22
   studio: DC
   platform: Theaters
   notes: Animated, Dick Grayson & Jason Todd
   link: https://www.imdb.com/title/tt33549695
 
 - title: Black Panther 3
-  release: Dec 15 2028
-  date: 2028-12-15 00:00:00 -0000
+  date: 2028-12-15
   studio: Marvel
   platform: Theaters
   notes: Ryan Coogler
   link: https://www.imdb.com/title/tt37884905
 
 - title: Avatar 4
-  release: Dec 21 2029
-  date: 2029-12-21 00:00:00 -0000
+  date: 2029-12-21
   studio: 20th Century
   platform: Theaters
   notes: James Cameron
   link: https://www.imdb.com/title/tt3095356
+
+- title: Avatar 5
+  date: 2031-12-19
+  platform: Theaters
+  notes: James Cameron
+  link: https://www.imdb.com/title/tt5637536

@@ -9,4 +9,4 @@ title: All Series
 
 {% assign items = site.data.releases | where_exp: "item", "item.platform != 'Theaters'" %}
 
-{% include release-list.md %}
+{% include release-list.html %}

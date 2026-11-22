@@ -1,0 +1,63 @@
+{%- comment -%}
+  Renders the Upcoming / Released tables for `items`.
+  The split is computed at build time (as a no-JS fallback), then the script
+  below re-applies it using the viewer's current date, so releases move from
+  Upcoming to Released without a rebuild.
+{%- endcomment -%}
+{%- if items and items.size > 0 -%}
+{%- assign today = site.time | date: "%Y-%m-%d" -%}
+{%- assign sorted = items | sort: "date", "last" -%}
+{%- capture upcomingRows -%}
+{%- for release in sorted -%}
+{%- assign day = release.date | date: "%Y-%m-%d" -%}
+{%- if day > today -%}{%- include release-row.html release=release day=day -%}{%- endif -%}
+{%- endfor -%}
+{%- endcapture -%}
+{%- capture releasedRows -%}
+{%- for release in sorted reversed -%}
+{%- assign day = release.date | date: "%Y-%m-%d" -%}
+{%- if day <= today -%}{%- include release-row.html release=release day=day -%}{%- endif -%}
+{%- endfor -%}
+{%- endcapture -%}
+
+<div class="release-list">
+<p id="release-nav"{% if upcomingRows == "" or releasedRows == "" %} hidden{% endif %}><a href="#upcoming">Upcoming</a> | <a href="#released">Released</a></p>
+<section id="upcoming-section"{% if upcomingRows == "" %} hidden{% endif %}>
+<h3 id="upcoming">Upcoming:</h3>
+<table>
+<thead><tr><th>Title</th><th>Date</th><th>Platform</th><th>Studio</th><th>Notes</th></tr></thead>
+<tbody id="upcoming-rows">{{ upcomingRows }}</tbody>
+</table>
+</section>
+<section id="released-section"{% if releasedRows == "" %} hidden{% endif %}>
+<h3 id="released">Released:</h3>
+<table>
+<thead><tr><th>Title</th><th>Date</th><th>Platform</th><th>Studio</th><th>Notes</th></tr></thead>
+<tbody id="released-rows">{{ releasedRows }}</tbody>
+</table>
+</section>
+</div>
+
+<script>
+(function () {
+  var now = new Date();
+  var pad = function (n) { return String(n).padStart(2, "0"); };
+  var today = now.getFullYear() + "-" + pad(now.getMonth() + 1) + "-" + pad(now.getDate());
+
+  var upcoming = document.getElementById("upcoming-rows");
+  var released = document.getElementById("released-rows");
+
+  // Upcoming is oldest-first and Released is newest-first, so prepending
+  // each newly-released row in order keeps Released correctly sorted.
+  Array.prototype.slice.call(upcoming.rows).forEach(function (row) {
+    if (row.getAttribute("data-date") <= today) released.prepend(row);
+  });
+
+  var hasUpcoming = upcoming.rows.length > 0;
+  var hasReleased = released.rows.length > 0;
+  document.getElementById("upcoming-section").hidden = !hasUpcoming;
+  document.getElementById("released-section").hidden = !hasReleased;
+  document.getElementById("release-nav").hidden = !(hasUpcoming && hasReleased);
+})();
+</script>
+{%- endif -%}

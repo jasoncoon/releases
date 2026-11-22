@@ -7,7 +7,9 @@
   "type": "module",
   "scripts": {
     "start": "bundle exec jekyll serve",
-    "sort": "tsx sort.ts"
+    "sort": "tsx scripts/sort.ts",
+    "check": "tsx scripts/check.ts",
+    "discover": "tsx scripts/discover.ts"
   },
   "repository": {
     "type": "git",
