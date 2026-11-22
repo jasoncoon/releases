@@ -6,59 +6,33 @@
 //   npm run discover -- --list    # just list candidates, change nothing
 
 import * as fs from "fs";
-import * as readline from "readline";
 import {
   ROOT,
-  imdbId,
   loadReleases,
-  normalizeTitle,
   readYaml,
   saveReleases,
-  splitSeason,
-  tmdbRef,
   today,
   writeYamlList,
-  type Release,
 } from "./lib/releases.ts";
+import { REGION, allPages, tmdb, type Company } from "./lib/tmdb.ts";
 import {
-  REGION,
-  allPages,
-  movieDirectors,
-  getMovie,
-  getShow,
-  platformFor,
-  tmdb,
-  tmdbUrl,
-  usRelease,
-  type Company,
-} from "./lib/tmdb.ts";
+  createPrompter,
+  describe,
+  existingMatcher,
+  loadConfig,
+  movieCandidate,
+  showCandidates,
+  studioMatcher,
+  type Candidate,
+  type CompanyMap,
+} from "./lib/candidates.ts";
 
 const LIST_ONLY = process.argv.includes("--list");
-const CONFIG_FILE = `${ROOT}scripts/tmdb.yml`;
 const IGNORE_FILE = `${ROOT}scripts/tmdb-ignore.yml`;
 
-type Config = {
-  companies: { name: string; studio?: string; id?: number }[];
-  directors: (string | { name: string; id?: number })[];
-};
 type Ignored = { key: string; title: string };
 
-type Candidate = {
-  key: string; // movie:123 or tv:456:s2
-  title: string;
-  date: string;
-  kind: "movie" | "tv";
-  platform?: string;
-  studio?: string;
-  notes?: string;
-  link: string;
-  url: string;
-  imdb?: string;
-  season: number; // 1 for movies
-  info: string[];
-};
-
-const config = readYaml<Config>(CONFIG_FILE);
+const config = loadConfig();
 const ignored: Ignored[] = fs.existsSync(IGNORE_FILE)
   ? (readYaml<Ignored[]>(IGNORE_FILE) ?? [])
   : [];
@@ -68,7 +42,7 @@ const now = today();
 // ---------------------------------------------------------------- Resolve config
 
 async function resolveCompanies() {
-  const map = new Map<number, { name: string; studio?: string }>();
+  const map: CompanyMap = new Map();
   for (const c of config.companies ?? []) {
     if (c.id) {
       map.set(c.id, c);
@@ -117,81 +91,7 @@ async function resolveDirectors() {
 // ---------------------------------------------------------------- Gather
 
 const candidates = new Map<string, Candidate>();
-let companies: Awaited<ReturnType<typeof resolveCompanies>>;
-
-function studioFor(production: Company[]) {
-  const hit = production.find((c) => companies.has(c.id));
-  return hit ? companies.get(hit.id)!.studio : undefined;
-}
-
-function matchedCompanies(production: Company[]) {
-  return production.filter((c) => companies.has(c.id)).map((c) => c.name);
-}
-
-async function addMovie(id: number, director?: string) {
-  const key = `movie:${id}`;
-  const existing = candidates.get(key);
-  if (existing) {
-    if (director && !existing.notes) existing.notes = director;
-    return;
-  }
-
-  const movie = await getMovie(id);
-  const { date, theatrical } = usRelease(movie);
-  if (!date || date < now) return;
-
-  const dirs = movieDirectors(movie).map((d) => d.name);
-  const matched = matchedCompanies(movie.production_companies);
-  const url = tmdbUrl("movie", id);
-  candidates.set(key, {
-    key,
-    kind: "movie",
-    title: movie.title,
-    date,
-    platform: theatrical ? "Theaters" : undefined,
-    studio: studioFor(movie.production_companies),
-    notes: director,
-    imdb: movie.imdb_id ?? undefined,
-    link: movie.imdb_id ? `https://www.imdb.com/title/${movie.imdb_id}` : url,
-    url,
-    season: 1,
-    info: [
-      theatrical ? "US theatrical" : `no US theatrical date`,
-      dirs.length ? `dir. ${dirs.join(", ")}` : "",
-      matched.length ? `from ${matched.join(", ")}` : "",
-    ].filter(Boolean),
-  });
-}
-
-async function addShow(id: number) {
-  const show = await getShow(id);
-  const matched = matchedCompanies(show.production_companies);
-  const imdb = show.external_ids?.imdb_id ?? undefined;
-  const url = tmdbUrl("tv", id);
-
-  for (const s of show.seasons) {
-    if (s.season_number < 1 || !s.air_date || s.air_date < now) continue;
-    const key = `tv:${id}:s${s.season_number}`;
-    if (candidates.has(key)) continue;
-    candidates.set(key, {
-      key,
-      kind: "tv",
-      title:
-        s.season_number === 1 ? show.name : `${show.name} Season ${s.season_number}`,
-      date: s.air_date,
-      platform: platformFor(show),
-      studio: studioFor(show.production_companies),
-      imdb,
-      link: imdb ? `https://www.imdb.com/title/${imdb}` : url,
-      url,
-      season: s.season_number,
-      info: [
-        show.networks[0] ? `on ${show.networks[0].name}` : "",
-        matched.length ? `from ${matched.join(", ")}` : "",
-      ].filter(Boolean),
-    });
-  }
-}
+const isUpcoming = (c: Candidate) => !!c.date && c.date >= now;
 
 async function safely(label: string, fn: () => Promise<void>) {
   try {
@@ -203,9 +103,20 @@ async function safely(label: string, fn: () => Promise<void>) {
 
 async function gather() {
   console.log("Resolving companies and directors...");
-  companies = await resolveCompanies();
+  const companies = await resolveCompanies();
   const directors = await resolveDirectors();
+  const match = studioMatcher(config, companies);
   const companyIds = [...companies.keys()].join("|");
+
+  const addMovie = async (id: number, director?: string) => {
+    const existing = candidates.get(`movie:${id}`);
+    if (existing) {
+      if (director && !existing.notes) existing.notes = director;
+      return;
+    }
+    const c = await movieCandidate(id, match, director);
+    if (isUpcoming(c)) candidates.set(c.key, c);
+  };
 
   if (companyIds) {
     console.log(`Searching movies from ${companies.size} companies...`);
@@ -224,7 +135,11 @@ async function gather() {
       "air_date.gte": now,
       sort_by: "popularity.desc",
     });
-    for (const s of shows) await safely(`series ${s.id}`, () => addShow(s.id));
+    for (const s of shows)
+      await safely(`series ${s.id}`, async () => {
+        for (const c of await showCandidates(s.id, match))
+          if (isUpcoming(c)) candidates.set(c.key, c);
+      });
   }
 
   console.log(`Searching movies directed by ${directors.length} directors...`);
@@ -239,82 +154,31 @@ async function gather() {
   }
 }
 
-// ---------------------------------------------------------------- Filter known
-
-function knownKeys(list: Release[]) {
-  const keys = new Set<string>();
-  for (const r of list) {
-    const { season } = splitSeason(r.title);
-    const imdb = imdbId(r.link);
-    if (imdb) keys.add(`imdb:${imdb}#${season ?? 1}`);
-    const ref = tmdbRef(r.link);
-    if (ref)
-      keys.add(ref.kind === "movie" ? `movie:${ref.id}` : `tv:${ref.id}:s${season ?? 1}`);
-    keys.add(`title:${normalizeTitle(r.title)}`);
-  }
-  return keys;
-}
-
-function isKnown(c: Candidate, keys: Set<string>) {
-  return (
-    keys.has(c.key) ||
-    (c.imdb !== undefined && keys.has(`imdb:${c.imdb}#${c.season}`)) ||
-    keys.has(`title:${normalizeTitle(c.title)}`) ||
-    ignored.some((i) => i.key === c.key)
-  );
-}
-
 // ---------------------------------------------------------------- Main
 
 await gather();
 
-const known = knownKeys(releases);
+const existing = existingMatcher(releases);
 const fresh = [...candidates.values()]
-  .filter((c) => !isKnown(c, known))
-  .sort((a, b) => a.date.localeCompare(b.date) || a.title.localeCompare(b.title));
+  .filter((c) => !existing(c) && !ignored.some((i) => i.key === c.key))
+  .sort((a, b) => a.date!.localeCompare(b.date!) || a.title.localeCompare(b.title));
 
 console.log(
   `\nFound ${candidates.size} upcoming on TMDB; ${fresh.length} not yet in releases.yml or ignored.\n`
 );
 
-const describe = (c: Candidate, i: number) =>
-  [
-    `[${i + 1}/${fresh.length}] ${c.date}  ${c.title}  (${c.kind === "tv" ? "series" : "movie"})`,
-    `       ${c.info.join(" · ")}`,
-    `       ${c.url}`,
-  ].join("\n");
+const label = (i: number) => `[${i + 1}/${fresh.length}] `;
 
 if (LIST_ONLY || !fresh.length) {
-  fresh.forEach((c, i) => console.log(describe(c, i) + "\n"));
+  fresh.forEach((c, i) => console.log(describe(c, label(i)) + "\n"));
   process.exit(0);
 }
 
-// Queue input lines so nothing is lost when input arrives before a prompt
-// (e.g. piped input). Resolves null once input is closed.
-const rl = readline.createInterface({ input: process.stdin });
-const pending: string[] = [];
-const waiting: ((line: string | null) => void)[] = [];
-let closed = false;
-rl.on("line", (line) => (waiting.shift() ?? ((l: string) => pending.push(l)))(line));
-rl.on("close", () => {
-  closed = true;
-  waiting.splice(0).forEach((w) => w(null));
-});
-function prompt(question: string): Promise<string | null> {
-  process.stdout.write(question);
-  if (pending.length) return Promise.resolve(pending.shift()!);
-  if (closed) return Promise.resolve(null);
-  return new Promise((resolve) => waiting.push(resolve));
-}
-
-const ask = async (label: string, current?: string) => {
-  const answer = ((await prompt(`    ${label}${current ? ` [${current}]` : ""}: `)) ?? "").trim();
-  return answer === "-" ? undefined : answer || current;
-};
+const { prompt, editRelease, close } = createPrompter();
 
 let added = 0;
 for (const [i, c] of fresh.entries()) {
-  console.log(describe(c, i));
+  console.log(describe(c, label(i)));
   const answer = await prompt(
     "  Add? [y]es / [n]o, don't ask again / [s]kip / [q]uit (s): "
   );
@@ -325,21 +189,12 @@ for (const [i, c] of fresh.entries()) {
     ignored.push({ key: c.key, title: `${c.title} (${c.date})` });
     writeYamlList(IGNORE_FILE, ignored);
   } else if (choice === "y") {
-    console.log("    (Enter keeps the value in brackets, - clears it)");
-    const release: Release = {
-      title: (await ask("Title", c.title)) ?? c.title,
-      date: c.date,
-      studio: await ask("Studio", c.studio),
-      platform: await ask("Platform", c.platform),
-      notes: await ask("Notes", c.notes),
-      link: c.link,
-    };
-    releases.push(release);
+    releases.push(await editRelease(c));
     saveReleases(releases);
     added++;
   }
   console.log();
 }
-rl.close();
+close();
 
 console.log(`Added ${added} release${added === 1 ? "" : "s"} to releases.yml.`);

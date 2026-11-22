@@ -9,7 +9,8 @@
     "start": "bundle exec jekyll serve",
     "sort": "tsx scripts/sort.ts",
     "check": "tsx scripts/check.ts",
-    "discover": "tsx scripts/discover.ts"
+    "discover": "tsx scripts/discover.ts",
+    "add": "tsx scripts/add.ts"
   },
   "repository": {
     "type": "git",

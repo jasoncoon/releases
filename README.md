@@ -17,6 +17,7 @@ Entries can go anywhere in the file; the site sorts them by date. Run `npm run s
 
 Put your TMDB API Read Access Token in `.env` (git-ignored) as `TMDB_TOKEN=...`.
 
+- `npm run add -- <ref>` adds one release from TMDB, letting you review each field. `<ref>` can be a TMDB URL (including `/tv/ID/season/N`), `movie/ID`, `tv/ID`, an IMDb id/URL, or a bare ID (movie, or add `--tv`). Options: `--season N`, `--yes` to skip the prompts. For series without a season, the next upcoming season is used.
 - `npm run check` compares upcoming release dates with TMDB. Add `-- --all` to include released items, `-- --write` to apply changes.
 - `npm run discover` suggests upcoming movies/series from the studios in [scripts/tmdb.yml](scripts/tmdb.yml), plus movies directed (not just produced) by the directors listed there, and asks before adding each. Declined items are remembered in `scripts/tmdb-ignore.yml`. Add `-- --list` to just list them.
 
